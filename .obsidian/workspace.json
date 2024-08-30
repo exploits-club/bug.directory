@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "ea3cbef3689a1e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "13aefeab8928defb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92153961cd2196a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A LibAFL Introductory Workshop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f145faa777de662e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023 Firmware Security Thread.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2f914c918406df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strengthening the Shield - MTE in Heap Allocators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c355c9362e45879a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Years of Decompilation and the Unsolved Structuring Problem - Part 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48060053d83c820a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kfd write-ups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b42131c845e1ec6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start Your Engines - Capturing the First Flag in Google's New v8CTF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "882d41aa1a410793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Years of Decompilation and the Unsolved Structuring Problem - Part 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41c1cd22d206b339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Radek Domanski from FlashBack team on PWN2OWN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf943448b9ffcb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leveraging Binary Ninja IL To Reverse a Custom ISA - Cracking The \"Pot Of Gold\" 37C3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cc9d22f331b6d47",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ca3204ec2e00ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acd918f2bbf56d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99120d49cf2823fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cab369bb8aa4c4fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5dedb80d7f7a40c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "68abe7f1ccd2dd81",
+    "type": "split",
+    "children": [
+      {
+        "id": "f298b89f6433abd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d9de089235914ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43081fd77949313c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4592a280db8421d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d48b97280d76d8a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7cc9d22f331b6d47",
+  "lastOpenFiles": [
+    "Exploring Counter-Strike - Global Offensive Attack Surface.md",
+    "Leveraging Binary Ninja IL To Reverse a Custom ISA - Cracking The \"Pot Of Gold\" 37C3.md",
+    "Radek Domanski from FlashBack team on PWN2OWN.md",
+    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 2.md",
+    "A LibAFL Introductory Workshop.md",
+    "Nintendo hacking 2023-2008.md",
+    "Nintendo Switch Game Hacking Resources.md",
+    "kfd write-ups.md",
+    "Start Your Engines - Capturing the First Flag in Google's New v8CTF.md",
+    "Jailbreaking an Electric Vehicle in 2023.md",
+    "Shuffle Up and Deal - Analyzing the Security of Automated Card Shufflers.md",
+    "2023 CTF Challenge And Write-Up Database.md",
+    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 1.md",
+    "Strengthening the Shield - MTE in Heap Allocators.md",
+    "2023 Firmware Security Thread.md",
+    "Trail of Bits Testing Handbook.md",
+    "game hacking.md",
+    "Fuzz Everything, Everywhere, All at Once.md",
+    "Achieving Remote Code Execution in Steam - a journey into the Remote Play protocol.md",
+    "templates/EC Entry.md",
+    "static analysis.md",
+    "templates"
+  ]
+}
