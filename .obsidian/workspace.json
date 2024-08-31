@@ -4,127 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13aefeab8928defb",
+        "id": "5e2ab213b8dc1552",
         "type": "tabs",
         "children": [
           {
-            "id": "c92153961cd2196a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A LibAFL Introductory Workshop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f145faa777de662e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 Firmware Security Thread.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2f914c918406df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strengthening the Shield - MTE in Heap Allocators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c355c9362e45879a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 Years of Decompilation and the Unsolved Structuring Problem - Part 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48060053d83c820a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kfd write-ups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b42131c845e1ec6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Start Your Engines - Capturing the First Flag in Google's New v8CTF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "882d41aa1a410793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30 Years of Decompilation and the Unsolved Structuring Problem - Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c1cd22d206b339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Radek Domanski from FlashBack team on PWN2OWN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf943448b9ffcb42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leveraging Binary Ninja IL To Reverse a Custom ISA - Cracking The \"Pot Of Gold\" 37C3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc9d22f331b6d47",
+            "id": "af90f0477eca39ac",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,29 +139,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc9d22f331b6d47",
+  "active": "af90f0477eca39ac",
   "lastOpenFiles": [
+    "Qualys Releases Two glibc Bugs.md",
+    "nix libX11 - Uncovering and Exploiting a 35-year-old Vulnerability.md",
+    "Inside the LogoFAIL PoC - From Integer Overflow to Arbitrary Code Execution.md",
+    "OSS-Fuzz Gen.md",
+    "Relution Remote Code Execution via Java Deserialization Vulnerability.md",
+    "ZDI Discloses Lexmark Pwn2Own Bugs.md",
+    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 2.md",
+    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 1.md",
+    "Untitled.md",
+    "Missing signs - how several brands forgot to secure a key piece of Android.md",
+    "Linux Kernel CodeQL Queries.md",
+    "Welcome To 2024 - The SSLVPN Chaos Continues.md",
+    "mistymntncop - CVE-2022-4262 PoC.md",
+    "Start Your Engines - Capturing the First Flag in Google's New v8CTF.md",
+    "CVE-2024-0204 - Fortra GoAnywhere MFT Authentication Bypass Deep-Dive.md",
+    "ivanti.md",
+    "A Handful of Imagination GPU Vulnerabilities.md",
+    "Fuzzware Goes Open-Source.md",
+    "Google Chrome V8 CVE-2024-0517 Out-of-Bounds Write Code Execution.md",
+    "Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability.md",
+    "PixieFail -  Nine vulnerabilities in Tianocore's EDK II IPv6 network stack..md",
+    "Hi, My Name Is Keyboard.md",
+    "Ivan Frantic's MacOS Video Decoder Bugs.md",
     "Exploring Counter-Strike - Global Offensive Attack Surface.md",
     "Leveraging Binary Ninja IL To Reverse a Custom ISA - Cracking The \"Pot Of Gold\" 37C3.md",
     "Radek Domanski from FlashBack team on PWN2OWN.md",
-    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 2.md",
-    "A LibAFL Introductory Workshop.md",
-    "Nintendo hacking 2023-2008.md",
-    "Nintendo Switch Game Hacking Resources.md",
-    "kfd write-ups.md",
-    "Start Your Engines - Capturing the First Flag in Google's New v8CTF.md",
-    "Jailbreaking an Electric Vehicle in 2023.md",
-    "Shuffle Up and Deal - Analyzing the Security of Automated Card Shufflers.md",
-    "2023 CTF Challenge And Write-Up Database.md",
-    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 1.md",
-    "Strengthening the Shield - MTE in Heap Allocators.md",
-    "2023 Firmware Security Thread.md",
-    "Trail of Bits Testing Handbook.md",
-    "game hacking.md",
-    "Fuzz Everything, Everywhere, All at Once.md",
-    "Achieving Remote Code Execution in Steam - a journey into the Remote Play protocol.md",
-    "templates/EC Entry.md",
-    "static analysis.md",
     "templates"
   ]
 }
