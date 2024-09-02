@@ -1,0 +1,7 @@
+tags: [[auth bypass]], [[path traversal]], [[enterprise app]]
+original link:  [A Catastrophe For Control: Understanding the ScreenConnect Authentication Bypass](https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 09](https://blog.exploits.club/exploits-club-weekly-newsletter-09/)  
+
+---
+## Exploits Club Summary:
+>  [**Huntress**](https://www.huntress.com/?ref=blog.exploits.club) did a deep dive into the recent [ScreenConnect CVEs](https://www.connectwise.com/company/trust/security-bulletins/connectwise-screenconnect-23.9.8?ref=blog.exploits.club). This included an **authentication bypass and a path traversal**, which [ConnectWise](https://www.connectwise.com/platform/live-demos/platform?mcid=PPC6559&utm_medium=PPC&utm_source=Google&utm_campaign=PPC6559&utm_content=demo&loc=NA&cq_cmp=21047306872&cq_plac=&cq_net=g&utm_term=connectwise&_bt=691551132705&_bk=connectwise&_bm=e&_bn=g&_bg=164838659651&cq_cmp=21047306872&cq_plac=&cq_net=g&gad_source=1&gclid=EAIaIQobChMIufG17qG_hAMVcS7UAR0qvwCbEAAYASAAEgK12vD_BwE&gclsrc=aw.ds) published in an advisory earlier this week. The post goes through the process of **analyzing the patch, identifying the root cause of each vulnerability, and writing exploits for each.** It also puts out some **potential IOCs**, for those of you blue team folks out there.

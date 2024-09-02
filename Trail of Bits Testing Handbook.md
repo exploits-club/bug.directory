@@ -1,4 +1,4 @@
-tags:  [[static analysis]], [[dynamic analysis]], [[learning resource]]
+tags:  [[static analysis]], [[dynamic analysis]], [[learning resource]], [[graphQL]], [[fuzzing]]
 original link:  [Trail Of Bits Add's CodeQL To Testing Handbook](https://appsec.guide/docs/static-analysis/codeql/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 01](https://blog.exploits.club/vuln-research-newsletter-01/)
 
