@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "caf20541a78aee9a",
+        "id": "c82b0f8e5d883c32",
         "type": "tabs",
         "children": [
           {
-            "id": "d0c966151cfd3a11",
+            "id": "f56ac101967a822e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "supply",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,34 +139,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0c966151cfd3a11",
+  "active": "f56ac101967a822e",
   "lastOpenFiles": [
+    "Reverse Engineering The XZ Backdoor.md",
+    "CVE-2024-20697 - Windows Libarchive Remote Code Execution Vulnerability.md",
+    "Chaining N-days to Compromise All - Part 4 — VMware Workstation Information leakage.md",
+    "Exploiting American Conquest.md",
+    "Palo Alto - Putting The Protecc In GlobalProtect (CVE-2024-3400).md",
+    "Vulnerabilities found in VMWare by me.md",
+    "How an old bug in Lighttpd gained new life in AMI BMC, including Lenovo and Intel products.md",
+    "Buffer-overflow in Skia.md",
+    "CVE-2023-6345 - Integer overflow in Skia.md",
+    "Chaining N-days to Compromise All -Windows Driver LPE - Medium to System.md",
+    "UAF in PowerVR.md",
+    "Buffer Overflow in Via H264 Processing.md",
+    "RCE & SQLi for pre-auth RCE in IP.Board e-commerce plugin ‘nexus’.md",
+    "AMD Radeon DirectX 11 Driver Arbitrary Write.md",
+    "Unauthenticated Command Execution on Tp-Link AC1350.md",
+    "Heap Buffer Overflow In ANGLE.md",
+    "A Trick, The Story Of CVE-2024-26230.md",
+    "Exploit GSM.md",
+    "The Boom, the Bust, the Adjust and the Unknown.md",
+    "Security research without ever leaving GitHub - From code scanning to CVE via Codespaces and private vulnerability reporting.md",
+    "CVE-2024-28183 OTA Anti-Rollback Bypass via TOCTOU in ESP-IDF.md",
+    "Chaining N-days to Compromise All - Part 2 — Windows Kernel LPE (a.k.a Chrome Sandbox Escape).md",
     "A review of zero-day in-the-wild exploits in 2023.md",
     "Address Sanitizer for Bare-metal Firmware.md",
     "Operation Mango - Scalable Discovery of Taint-Style Vulnerabilities in Binary Firmware Services.md",
     "Mind the Patch Gap - Exploiting an io_uring Vulnerability in Ubuntu.md",
-    "Flipping Pages - An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques.md",
-    "Gaining kernel code execution on an MTE-enabled Pixel 8.md",
-    "Chaining N-days to Compromise All - Part 1 — Chrome Renderer RCE.md",
-    "Making Mojo Exploits More Difficult.md",
-    "Java Deserialization Tricks.md",
-    "CVE-2024-1212 - Unauthenticated Command Injection In Progress Kemp LoadMaster.md",
-    "Robots Dream of Root Shells.md",
-    "Ghostrace - Exploiting and Mitigating Speculative Race Conditions.md",
-    "ARLO - I'm Watching You.md",
-    "Say Friend and Enter - Digitally lockpicking an advanced smart lock (Part 2).md",
-    "CVE-2023-36049 - Microsoft .NET CRLF Injection Arbitrary File Write & Deletion Vulnerability.md",
-    "Mali GPU Kernel LPE.md",
-    "Finding Gadgets for CPU Side-Channels with Static Analysis Tools.md",
-    "Linux Kernel GSM Multiplexing Race Condition Local Privilege Escalation Vulnerability.md",
-    "PoC for CVE-2023-4427.md",
-    "Puckungfu 2 - Another NETGEAR WAN Command Injection.md",
-    "Relution Remote Code Execution via Java Deserialization Vulnerability.md",
-    "Secure by Design - Google’s Perspective on Memory Safety.md",
-    "Review of the SAILR paper.md",
-    "\"Tianfu Cup 2023\" Chrome use-after-free.md",
-    "Achieving Remote Code Execution in Steam - a journey into the Remote Play protocol.md",
-    "SolarWinds Security Event Manager AMF deserialization RCE (CVE-2024-0692).md",
     "templates"
   ]
 }
