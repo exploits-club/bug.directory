@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c82b0f8e5d883c32",
+        "id": "e630c470307c1b8e",
         "type": "tabs",
         "children": [
           {
-            "id": "f56ac101967a822e",
+            "id": "a2654fafb279e470",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supply",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md"
+              }
             }
           }
         ]
@@ -139,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f56ac101967a822e",
+  "active": "a2654fafb279e470",
   "lastOpenFiles": [
+    "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
+    "The FloW Drops PPW.md",
+    "CVE-2024-25938 - Foxit Reader Barcode widget Calculate event use-after-free vulnerability.md",
+    "Linux -  UAF in the tipc_buf_append().md",
+    "CVE-2023-26322 - Xiaomi Pro 13 isUrlMatchLevel Permissive List of Allowed Inputs Remote Code Execution Vulnerability.md",
+    "CVE-2024-3914 - V8 UAF.md",
+    "One Year of Mobile VRP - Reward Increases and Lessons Learned.md",
+    "CodeQL zero to hero part 3 - Security research with CodeQL.md",
+    "CVE-2024-26925 - nf_tables - release mutex after nft_gc_seq_end from abort path.md",
+    "Emulating RH850 architecture with Unicorn Engine.md",
+    "Untitled.md",
+    "iOS - A Journey In The USB Networking Stack.md",
+    "Exploiting the NT Kernel in 24H2 - New Bugs in Old Code & Side Channels Against KASLR.md",
+    "Exploit Development - Windows Kernel Exploitation - Debugging Environment and Stack Overflow.md",
+    "CVE-2024-3832 - Object corruption on wasm functions installation.md",
+    "The Windows Registry Adventure.md",
+    "Analyzing Forest Blizzard’s custom post-compromise tool for exploiting CVE-2022-38028 to obtain credentials.md",
+    "CVE-2024-2389 - Command Injection Vulnerability In Progress Flowmon.md",
+    "Hacking Exchange from the Outside In.md",
+    "Accessory Authentication.md",
+    "CVE-2024-1212 - Unauthenticated Command Injection In Progress Kemp LoadMaster.md",
     "Reverse Engineering The XZ Backdoor.md",
     "CVE-2024-20697 - Windows Libarchive Remote Code Execution Vulnerability.md",
     "Chaining N-days to Compromise All - Part 4 — VMware Workstation Information leakage.md",
     "Exploiting American Conquest.md",
     "Palo Alto - Putting The Protecc In GlobalProtect (CVE-2024-3400).md",
-    "Vulnerabilities found in VMWare by me.md",
-    "How an old bug in Lighttpd gained new life in AMI BMC, including Lenovo and Intel products.md",
-    "Buffer-overflow in Skia.md",
-    "CVE-2023-6345 - Integer overflow in Skia.md",
-    "Chaining N-days to Compromise All -Windows Driver LPE - Medium to System.md",
-    "UAF in PowerVR.md",
-    "Buffer Overflow in Via H264 Processing.md",
-    "RCE & SQLi for pre-auth RCE in IP.Board e-commerce plugin ‘nexus’.md",
-    "AMD Radeon DirectX 11 Driver Arbitrary Write.md",
-    "Unauthenticated Command Execution on Tp-Link AC1350.md",
-    "Heap Buffer Overflow In ANGLE.md",
-    "A Trick, The Story Of CVE-2024-26230.md",
-    "Exploit GSM.md",
-    "The Boom, the Bust, the Adjust and the Unknown.md",
-    "Security research without ever leaving GitHub - From code scanning to CVE via Codespaces and private vulnerability reporting.md",
-    "CVE-2024-28183 OTA Anti-Rollback Bypass via TOCTOU in ESP-IDF.md",
-    "Chaining N-days to Compromise All - Part 2 — Windows Kernel LPE (a.k.a Chrome Sandbox Escape).md",
-    "A review of zero-day in-the-wild exploits in 2023.md",
-    "Address Sanitizer for Bare-metal Firmware.md",
-    "Operation Mango - Scalable Discovery of Taint-Style Vulnerabilities in Binary Firmware Services.md",
-    "Mind the Patch Gap - Exploiting an io_uring Vulnerability in Ubuntu.md",
     "templates"
   ]
 }
