@@ -1,0 +1,7 @@
+tags: [[secure boot]], [[media decoder]], [[auth bypass]], [[android]]
+original link: [When Samsung meets MediaTek: the story of a small bug chain](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 33 - CPU Vulns, Breaking Samsung Bootloaders, Tony Hawk Pro Skater, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-33-cpu-vulns-breaking-samsung-bootloaders-tony-hawk-pro-skater-and-more-2/)
+
+---
+## Exploits Club Summary:
+>  We are only 2 months late to this one, but who can blame us given the amount of content [Quarkslab](https://www.quarkslab.com/?ref=blog.exploits.club) has continued to turn out? In this paper, the team walks through the **research they conducted against low-end Samsung devices, specifically targeting the JPEG logo parsing of the bootloader.** The first half of the post walks through the RE process, identification of a **heap overflow**, and exploitation to achieve **full control over Normal World Execution Levels 1 and 0**. It then discusses an **Odin authentication bypass**, which actually allows for the malicious JPEG to be flashed to the device. The second half of the post looks at **targeting the TEE**, and **identifies memory leak which allowed the retrieval of keystore keys once they are loaded into Secure World RAM.**

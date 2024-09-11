@@ -1,0 +1,7 @@
+tags: [[stack overflow]], [[game hacking]], [[console hacking]] 
+original link: [Tony Hawk's Pro Strcpy](https://www.youtube.com/watch?v=Pjqw1Gwk0jg&ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 33 - CPU Vulns, Breaking Samsung Bootloaders, Tony Hawk Pro Skater, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-33-cpu-vulns-breaking-samsung-bootloaders-tony-hawk-pro-skater-and-more-2/)
+
+---
+## Exploits Club Summary:
+>  Look, we have some fond memories associated with the Tony Hawk pro skater series. We also have some fond memories with the PS2 which [GrimDoesStuff](https://www.youtube.com/@Grimdoomer?ref=blog.exploits.club) clearly does _not_ share. But in his recent upload, **Grim walks us through a vulnerability he found and exploited in Tony Hawk Pro Skater.** The bug is an **overflow stemming from an unchecked strcpy when naming a super sick gap you created.** He demonstrates how this can be **used to jailbreak the console remotely** by playing with friends who have a modified version of the game set-up. While the video primarily focuses on the uses for the exploit, **the full write-up can be found** [**here**](https://icode4.coffee/?p=954&ref=blog.exploits.club)**.**

@@ -8,4 +8,4 @@ newsletter link: [exploits.club Weekly Newsletter 07](https://blog.exploits.club
 
 
 ---
-backlinks: [[CVE-2024-1283: Cross-{Cache, Bucket} Browser Exploit]]
+backlinks: [[CVE-2024-1283 - Cross-{Cache, Bucket} Browser Exploit]]

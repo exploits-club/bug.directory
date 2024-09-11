@@ -1,0 +1,7 @@
+tags:  [[pwn2own]], [[iot]], [[stack overflow]]
+original link:  [Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2](https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 30](https://blog.exploits.club/exploits-club-weekly-newsletter-30/)
+
+---
+## Exploits Club Summary:
+> Last week, we covered the [first entry in the blog series](https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase?ref=blog.exploits.club) discussing [Claroty Team82's](https://claroty.com/team82?ref=blog.exploits.club) SOHO smash-up exploit chain at [Pwn2Own 2023 Toronto](https://www.zerodayinitiative.com/blog/2023/10/26/pwn2own-toronto-2023-day-three-results?rq=2023&ref=blog.exploits.club). This week, the team **released a follow-up post walking through the vulnerability and exploit for the Synology BC500 IP camera.** Specifically, the team identified a **parsing bug in one of the web-interface's C/C++ based CGI executables**, which was reachable via an HTTP endpoint. The vulnerability itself was a **stack-based buffer overflow resulting from a `sscanf` call.** The write-up then dives into exploiting this bug, starting with **brute forcing ASLR, explaining the target function pointer to overwrite, and then discussing the challenges associated with building the exploit payload itself.** 

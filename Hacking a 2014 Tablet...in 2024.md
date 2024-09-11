@@ -1,0 +1,7 @@
+tags: [[secure boot]], [[hardware hacking]], [[firmware]], [[iot]] 
+original link: [Hacking a 2014 Tablet...in 2024](https://blog.r0rt1z2.com/hacking-a-2014-tablet-in-2024.html?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 35 - NPU exploits, Phrack 71, 2014 Tablet Hacks, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-35-npu-exploits-phrack-71-2014-tablet-hacks-and-more/) 
+
+---
+## Exploits Club Summary:
+> A fun post from last month from [@r0rt1z2](https://blog.r0rt1z2.com/hacking-a-2014-tablet-in-2024.html?ref=blog.exploits.club) discussing his **successes and failures in hacking the Amazon Fire HD6.** The write-up begins with a walkthrough of **firmware analysis, rooting the device, and accessing UART**. Roger then discusses how he **attempted to access bootROM mode, successfully achieving the mark of any good hardware hacking project...killing his first unit.** He then pivots to target the preloader, explaining how to leverage a **GCPU exploit for arbitrary memory read/write.** After failing to dump the bootROM, he decided to **upload and execute his own preloader payloads.** The post then goes on to discuss how he was able to **unlock the bootloader and craft a malicious boot image.** 

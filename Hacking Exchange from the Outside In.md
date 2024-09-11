@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[afl]], [[jackalope]], [[exchange]], [[supply chain]], [[uaf]], [[oob read]], [[oob write]]
+tags:  [[fuzzing]], [[afl]], [[jackalope]], [[exchange]], [[supply chain]], [[uaf]], [[OOB read]], [[OOB write]]
 original link:  [Hacking Exchange from the Outside In](https://www.atredis.com/blog/2024/4/22/hacking-exchange-from-the-outside-in?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 18](https://blog.exploits.club/exploits-club-weekly-newsletter-18/)
 

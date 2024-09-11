@@ -1,0 +1,7 @@
+tags: [[java]], [[android]], [[ai]], [[secure boot]]
+original link: [Jailbreaking RabbitOS: Uncovering Secret Logs, and GPL Violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html?ref=blog.exploits.club#jailbreaking-rabbitos-uncovering-secret-logs-and-gpl-violations)
+newsletter link: [exploits.club Weekly Newsletter 30](https://blog.exploits.club/exploits-club-weekly-newsletter-30/) 
+
+---
+## Exploits Club Summary:
+> [The Rabbit R1](https://www.rabbit.tech/?ref=blog.exploits.club) has been under fire recently for just all around sucking - from a product, technology, and security point of view (the holy trinity!). [@David3141593](https://x.com/David3141593?ref=blog.exploits.club) decided to get in on the fun this week, releasing a post about **his efforts in jailbreaking the device.** The write-up outlines the **hardware and boot process of the R1 before detailing how he broke the root of trust via the USB bootloader mode, which accepts unsigned Download Agents.** From there, he could **backdoor the device with** [**flashable-android-rootkit**](https://github.com/ng-dst/flashable-android-rootkit?ref=blog.exploits.club) **and dig into the device's internals.** The rest of the post discusses his findings so far, both in terms of data privacy and technical claims from the Rabbit team. 

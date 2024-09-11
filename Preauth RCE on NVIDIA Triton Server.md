@@ -1,0 +1,8 @@
+tags: [[arbitrary file write]], [[OOB write]], [[ai]], [[enterprise app]]
+original link: [Preauth RCE on NVIDIA Triton Server](https://sites.google.com/site/zhiniangpeng/blogs/Triton-RCE?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 26](https://blog.exploits.club/exploits-club-weekly-newsletter-26/)
+
+
+---
+## Exploits Club Summary:
+> What do you get when you mix new technology with rapid innovation and competition? We don't know, but if OSes...or web...or cloud...or crypto are any indicator, you do _not_ get security. This write-up from [@edwardzpeng](https://twitter.com/edwardzpeng?ref=blog.exploits.club) indicates the **state of AI security may also be going through its infancy stage.** In his blog, he demonstrates **two vulnerabilities he recently found on** [**Triton Inference Server**](https://github.com/triton-inference-server/?ref=blog.exploits.club)**.** The first ([CVE-2024-0087](https://nvd.nist.gov/vuln/detail/CVE-2024-0087?ref=blog.exploits.club)) is an **arbitrary file write.** This results from the logging configuration **interface accepting an arbitrary parameter for the log's write target.** Because the log data is also attacker-controlled, this causes an arbitrary write, which can be spun into RCE. The second ([CVE-2024-0088](https://nvd.nist.gov/vuln/detail/CVE-2024-0088?ref=blog.exploits.club)) is **an arbitrary address write, resulting from how Triton allows for shared memory registration but fails to validate any of the attacker-controlled parameters.** The post wraps up with some thoughts on these vulnerabilities, the impact they may have at large, and the current state of AI. 

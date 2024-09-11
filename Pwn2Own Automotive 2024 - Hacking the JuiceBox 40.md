@@ -1,0 +1,7 @@
+tags: [[stack overflow]], [[car hacking]], [[hardware hacking]], [[pwn2own]] 
+original link: [Pwn2Own Automotive 2024: Hacking the JuiceBox 40](https://sector7.computest.nl/post/2024-08-pwn2own-automotive-juicebox-40/?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 37 - Juicy Overflows, The Art Of Exploitation, Rust in Firmware, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-37-juicy-overflows-the-art-of-exploitation-rust-in-firmware-and-more/)
+
+---
+## Exploits Club Summary:
+> Following the write-up from last month covering their [ChargePoint Home Flex](https://sector7.computest.nl/post/2024-08-pwn2own-automotive-chargepoint-home-flex/?ref=blog.exploits.club) exploit, [Sector 7](https://sector7.computest.nl/?ref=blog.exploits.club) returned this week to dump the juicy details for one of their other **Pwn2Own Automotive vulnerabilities - a stack overflow in Juicebox 40.** The post starts with some background on the device, the custom OS, and the associated devkit and continues on to **detail the vulnerability in the custom system messaging functionality.** Essentially, the code performs a size check on the raw input string but **doesn't account for the length of tag outputs** (such as `@t` to insert a 23-byte timestamp), resulting in a stack overflow. The team then talks exploitation, overwriting PC with a controllable destination in flash. Unfortunately, the bug resulted in a collision, but made for a great write-up nonetheless. 

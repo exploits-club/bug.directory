@@ -1,0 +1,7 @@
+tags: [[llm]], [[ai]] 
+original link: [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 27](https://blog.exploits.club/exploits-club-weekly-newsletter-27/)
+
+---
+## Exploits Club Summary:
+> Another post out of Project Zero (two in two weeks??), this time discussing the LLM assisted vulnerability research they have been experimenting with. This isn't your typical "paste-some-code-into-chatgpt-and-pray" though. Instead, they have **built an entire architecture for the agent to interact with a code browser, run a debugger, and write python scripts.** The post then goes into the **benchmarking of the project, which includes a whole bunch of fancy numbers to basically say "this thing works on CTF challenges"**. In fact it even found some unintended solutions, and in one case it was actually held back by...not being permitted to write an exploit...? Same. Following their post, [**@daveaitel**](https://x.com/daveaitel?ref=blog.exploits.club) [**released one of his own**](https://cybersecpolitics.blogspot.com/2024/06/automated-llm-bugfinders.html?m=1&ref=blog.exploits.club) **reviewing the P0 implementation and discussing some similarities and differences in similar set of tools he has been working on.**

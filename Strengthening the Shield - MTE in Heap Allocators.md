@@ -1,4 +1,4 @@
-tags:  [[mte]], [[allocator]], [[PartitionAlloc]], [[Ptmalloc]], [[Scudo]]
+tags:  [[mte]], [[allocator]], [[PartitionAlloc]], [[Ptmalloc]], [[scudo]]
 original link:  [Strengthening the Shield: MTE in Heap Allocators](https://www.darknavy.org/blog/strengthening_the_shield_mte_in_memory_allocators/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 02](https://blog.exploits.club/exploits-club-weekly-newsletter-02/)
 

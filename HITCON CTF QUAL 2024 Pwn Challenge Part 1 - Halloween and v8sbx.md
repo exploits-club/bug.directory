@@ -1,0 +1,7 @@
+tags: [[ctf]], [[linux]], [[kernel]], [[auth bypass]], [[race condition]], [[info leak]], [[v8]]
+original link: [HITCON CTF QUAL 2024 Pwn Challenge Part 1 - Halloween and v8sbx](https://u1f383.github.io/ctf/2024/07/16/hitcon-ctf-qual-2024-pwn-challenge-part-1-halloween-and-v8sbx.html?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 31](https://blog.exploits.club/exploits-club-weekly-newsletter-31/)
+
+---
+## Exploits Club Summary:
+> [@u1f383](https://x.com/u1f383?ref=blog.exploits.club) wrote a really **nice Linux Kernel challenge for HITCON CTF QUAL 2024** and then provided us with a lovely o**fficial solution on his blog.** The **challenge itself involves 4 vulnerabilities in a kernel module running network services.** After discovering the **auth bypass, the race condition, and the info leak**, participants had to craft a pretty complex exploit. The post starts with a TLDR on all the information needed, but we highly recommend giving the full write-up a read, as it does an excellent job walking through each vulnerability and exploitation. **Outside of the pwn challenge he wrote,** [**@u1f383**](https://x.com/u1f383?ref=blog.exploits.club) **also included a write-up for one of the V8 challenges at the end of this post and his solution.** 

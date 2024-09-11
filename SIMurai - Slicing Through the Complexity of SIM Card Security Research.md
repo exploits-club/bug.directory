@@ -1,0 +1,7 @@
+tags:  [[emulation]], [[android]], [[baseband]], [[fuzzing]]
+original link: [SIMurai: Slicing Through the Complexity of SIM Card Security Research](https://www.usenix.org/conference/usenixsecurity24/presentation/lisowski?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 35 - NPU exploits, Phrack 71, 2014 Tablet Hacks, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-35-npu-exploits-phrack-71-2014-tablet-hacks-and-more/) 
+
+---
+## Exploits Club Summary:
+> A new paper from [@nSinusR](https://x.com/nSinusR?ref=blog.exploits.club) [et al](https://x.com/nSinusR/status/1823712435959947476?ref=blog.exploits.club) asks the question what if a malicious SIM card was a valid attack surface? The **paper centers around the release of the team's new tool,** [**SIMurai**](https://github.com/tomasz-lisowski/simurai?ref=blog.exploits.club)**, a "versatile software SIM implementation that can be integrated into various environments for advanced testing and development."** It starts by describing the tool's design and how it implements various technical aspects of the specification. It then jumps into **the juicy security research aspects, walking through several threat models and the associated potential attacks.** Of note, the team ran a **fuzzing campaign against baseband firmware, and identified two high severity vulnerabilities.**

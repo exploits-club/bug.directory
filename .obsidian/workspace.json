@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "e630c470307c1b8e",
+        "id": "9370c6bde751cc7b",
         "type": "tabs",
         "children": [
           {
-            "id": "a2654fafb279e470",
+            "id": "1a0a6b47a1286ab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
+                "file": "Pwn2Own Automotive 2024 - Hacking the JuiceBox 40.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "39eb93cc1dfb9369",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dissecting the CVE-2024-38106 Fix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cdcb6b4db167f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deploying Rust in Existing Firmware Codebases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46ca79e946eb1cfc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,34 +176,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2654fafb279e470",
+  "active": "46ca79e946eb1cfc",
   "lastOpenFiles": [
-    "exploits.club Weekly Newsletter 20 - Special @_manfp Edition.md",
-    "The FloW Drops PPW.md",
-    "CVE-2024-25938 - Foxit Reader Barcode widget Calculate event use-after-free vulnerability.md",
-    "Linux -  UAF in the tipc_buf_append().md",
-    "CVE-2023-26322 - Xiaomi Pro 13 isUrlMatchLevel Permissive List of Allowed Inputs Remote Code Execution Vulnerability.md",
-    "CVE-2024-3914 - V8 UAF.md",
-    "One Year of Mobile VRP - Reward Increases and Lessons Learned.md",
-    "CodeQL zero to hero part 3 - Security research with CodeQL.md",
-    "CVE-2024-26925 - nf_tables - release mutex after nft_gc_seq_end from abort path.md",
-    "Emulating RH850 architecture with Unicorn Engine.md",
-    "Untitled.md",
-    "iOS - A Journey In The USB Networking Stack.md",
-    "Exploiting the NT Kernel in 24H2 - New Bugs in Old Code & Side Channels Against KASLR.md",
-    "Exploit Development - Windows Kernel Exploitation - Debugging Environment and Stack Overflow.md",
-    "CVE-2024-3832 - Object corruption on wasm functions installation.md",
-    "The Windows Registry Adventure.md",
-    "Analyzing Forest Blizzard’s custom post-compromise tool for exploiting CVE-2022-38028 to obtain credentials.md",
-    "CVE-2024-2389 - Command Injection Vulnerability In Progress Flowmon.md",
-    "Hacking Exchange from the Outside In.md",
-    "Accessory Authentication.md",
-    "CVE-2024-1212 - Unauthenticated Command Injection In Progress Kemp LoadMaster.md",
-    "Reverse Engineering The XZ Backdoor.md",
-    "CVE-2024-20697 - Windows Libarchive Remote Code Execution Vulnerability.md",
-    "Chaining N-days to Compromise All - Part 4 — VMware Workstation Information leakage.md",
-    "Exploiting American Conquest.md",
-    "Palo Alto - Putting The Protecc In GlobalProtect (CVE-2024-3400).md",
+    "ROPing Routers From Scratch - Step-By-Step TEnda Ac8v4 MIPs 0day Flow-Control ROP -> RCE.md",
+    "A Deep Dive into the CoSoSys EndPoint Protector Exploit - Remote Code Execution.md",
+    "Deploying Rust in Existing Firmware Codebases.md",
+    "Dissecting the CVE-2024-38106 Fix.md",
+    "Pwn2Own Automotive 2024 - Hacking the JuiceBox 40.md",
+    "CVE-2024-5274 - A Minor Flaw in V8 Parser Leading to Catastrophes.md",
+    "CVE-2020-27786 (Race Condition + Use-After-Free).md",
+    "4 exploits, 1 bug - Exploiting CVE-2024-20017 4 Different Ways.md",
+    "Ring Around The Regex - Lessons learned from fuzzing regex libraries (Part 2).md",
+    "SSD Advisory - Linux Kernel taprio OOB.md",
+    "Streaming vulnerabilities from Windows Kernel (Part 1) - Proxying to Kernel.md",
+    "Meta Bug Bounty - Fuzzing \"netconsd\" for fun and profit.md",
+    "CVE-2024-37079 - VMware vCenter Server Integer Underflow Code Execution Vulnerability.md",
+    "From Pwn2Own Automotive - Taking Over the Autel Maxicharger.md",
+    "OpenSSH Backdoors.md",
+    "Sky's the Limit - Quick Analysis and Exploitation of a Chrome ipcz TOCTOU Vulnerability.md",
+    "C++ Unwind Exception Metadata - A Hidden Reverse Engineering Bonanza.md",
+    "Hacking a 2014 Tablet...in 2024.md",
+    "ioxide - N_GSM 0 day.md",
+    "SIMurai - Slicing Through the Complexity of SIM Card Security Research.md",
+    "CVE-2022-22265 Samsung npu driver.md",
+    "Introduction To Windows Secure Channel RCE - CVE-2024-28148.md",
+    "The Way to Android Root - Exploiting Your GPU on Smartphone.md",
+    "Super Hat Trick - Exploit Chrome and Firefox Four Times.md",
+    "Strengthening the Shield - MTE in Heap Allocators.md",
+    "Exploiting Android's Hardened Memory Allocator.md",
     "templates"
   ]
 }

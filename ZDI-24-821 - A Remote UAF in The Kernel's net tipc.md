@@ -1,0 +1,7 @@
+tags: [[uaf]], [[linux]], [[kernel]], [[tipc]], [[lpe]] 
+original link: [ZDI-24-821: A Remote UAF in The Kernel's net/tipc](https://sam4k.com/zdi-24-821-a-remote-use-after-free-in-the-kernels-net-tipc/?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 28](https://blog.exploits.club/exploits-club-weekly-newsletter-28/)  
+
+---
+## Exploits Club Summary:
+> Last week we shared [**@sam4k's**](https://twitter.com/sam4k1?ref=blog.exploits.club) **slides about finding bugs in the Linux kernel.** In the presentation, he shared a bug he found using his methodology. Now, we were under the assumption this was a bug he found a while ago and just decided to use as a good example. Turns out, that assumption was extremely wrong. In his **newest blog post, he walks through how he decided to look for a bug _while_ making the presentation, and found the UAF in the kernel's TIPC networking stack.** The post itself **walks through the background and vulnerability in much more detail than the slides, covering networking subsystem fundamentals, the fundamental structures of the subsystem, and TIPC.** It then goes into **the vulnerability, working backwards from the stacktrace and working out the root cause.** Finally, it includes some notes on potential exploitation before concluding with the patch. 

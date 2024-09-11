@@ -1,0 +1,7 @@
+tags:  [[fuzzing]], [[methodology]], [[libfuzzer]]
+original link: [Ring Around The Regex: Lessons learned from fuzzing regex libraries (Part 1)](https://secret.club/2024/06/30/ring-around-the-regex-1.html?ref=blog.exploits.club) 
+newsletter link: [exploits.club Weekly Newsletter 28](https://blog.exploits.club/exploits-club-weekly-newsletter-28/)  
+
+---
+## Exploits Club Summary:
+> [secret.club](https://secret.club/2024/06/30/ring-around-the-regex-1.html?ref=blog.exploits.club) (no relation) put out an interesting post this week related to f**uzzing regex libraries.** Interestingly, author [@addisoncrump_vr](https://x.com/addisoncrump_vr?ref=blog.exploits.club) notes up front, **"targets and bugs described below are instead offered as a study for fuzzing design decisions and understanding where fuzzing fails."** The blog takes a **look at** [**rust-lang/regex**](https://github.com/rust-lang/regex?ref=blog.exploits.club), in which Addison analyzes the OSS-Fuzz harness and describes ways it can be changed, including the pros and cons of each change (which can sometimes be counterintuitive). **The post ends with the results and takeaways and a promise to follow up with part two covering** [**PCRE2**](https://secret.club/2024/06/30/ring-around-the-regex-1.html?ref=blog.exploits.club#target-2-pcre2)**.** 
