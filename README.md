@@ -1,5 +1,5 @@
 # Welcome To bug.directory 🐛
-![logo]([https://github.com/exploits-club/bug.directory/bug.directory_logo.png](https://raw.githubusercontent.com/exploits-club/bug.directory/main/bug.directory_logo.png))
+![logo](https://raw.githubusercontent.com/exploits-club/bug.directory/main/bug.directory_logo.png)
 
 ## What Is It?
 bug.directory is a searchable Obsidian vault brought to you by the [exploits.club](https://exploits.club) team. It's intended to serve as a collection of vuln research, exploit development, and reverse engineering resources to help you get spun up on new projects fast. 
