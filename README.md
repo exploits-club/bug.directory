@@ -9,7 +9,7 @@ The database has been initially seeded with weekly resources collected in https:
 ## How To Use It?
 
 ### Online:
-The *easiest* way to get spun up is check out some of the tags linked below, or use the search bar to find something specific (platform, primitive, resource, etc). That said, there are limitations with the way Obsidian Publish handles tagging on the web sooo 👇
+The *easiest* way to get spun up is check out some of the tags linked below, or use the search bar to find something specific (platform, primitive, resource, etc). It can be useful to stack tags in the search bar, such as #linux #uaf #lpe. That said, there are [limitations with the way Obsidian Publish handles tagging on the web](https://forum.obsidian.md/t/please-support-tags-in-graph-view-when-using-the-paid-publish-feature/76540) sooo 👇
 ### Locally
 The vault *really* shines when used locally with [Obsidian](https://obsidian.md/) - It was designed with graph view in mind, which isn't as fully featured on the web platform (WIP - see [[README#How To Get Involved? | How To Get Involved]]). You can clone a copy from our [GitHub](https://github.com/exploits-club/bug.directory)
 
