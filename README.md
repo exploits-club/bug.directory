@@ -13,7 +13,7 @@ The *easiest* way to get spun up is check out some of the tags linked below, or 
 ### Locally
 The vault *really* shines when used locally with [Obsidian](https://obsidian.md/) - It was designed with graph view in mind, which isn't as fully featured on the web platform (WIP - see [[README#How To Get Involved? | How To Get Involved]]). You can clone a copy from our [GitHub](https://github.com/exploits-club/bug.directory)
 
-![video](https://github.com/exploits-club/bug.directory/local_demo.mp4)
+![[local_demo.mp4]]
 ## Some Tags To Get You Started:
 #linux #chrome #windows #lpe #fuzzing #learning_resource #ctf
 ## How To Get Involved?
