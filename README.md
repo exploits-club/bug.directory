@@ -1,5 +1,5 @@
 # Welcome To bug.directory 🐛
-![[bug.directory_logo.png]]
+![logo](https://github.com/exploits-club/bug.directory/bug.directory_logo.png)
 
 ## What Is It?
 bug.directory is a searchable Obsidian vault brought to you by the [exploits.club](https://exploits.club) team. It's intended to serve as a collection of vuln research, exploit development, and reverse engineering resources to help you get spun up on new projects fast. 
@@ -13,7 +13,7 @@ The *easiest* way to get spun up is check out some of the tags linked below, or 
 ### Locally
 The vault *really* shines when used locally with Obsidian - It was designed with graph view in mind, which isn't as fully featured on the web platform (WIP - see [[Index#How To Get Involved? | How To Get Involved]]). You can clone a copy from our [GitHub](https://github.com/exploits-club/bug.directory)
 
-![video](https://github.com/exploits-club/bug.directory/local_video.mp4)
+![video](https://github.com/exploits-club/bug.directory/local_demo.mp4)
 ## Some Tags To Get You Started:
 #linux #chrome #windows #lpe #fuzzing #learning_resource #ctf
 ## How To Get Involved?
