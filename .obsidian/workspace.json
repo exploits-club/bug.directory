@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46ca79e946eb1cfc",
+            "id": "cf4a1733f5a64329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "\"Tianfu Cup 2023\" Chrome use-after-free.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cf4a1733f5a64329",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fuzzing",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "68abe7f1ccd2dd81",
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ]
@@ -154,8 +149,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cab369bb8aa4c4fe",
+  "active": "cf4a1733f5a64329",
   "lastOpenFiles": [
+    "local_demo.mp4",
+    "The Windows Registry Adventure.md",
+    "Index.md",
+    "templates/Submission.md",
+    "Stardew Valley PRNG Seed Cracking.md",
+    "templates/EC Entry.md",
+    "\"Tianfu Cup 2023\" Chrome use-after-free.md",
+    "Shuffle Up and Deal - Analyzing the Security of Automated Card Shufflers.md",
+    "Nintendo hacking 2023-2008.md",
     "Welcome To 2024 - The SSLVPN Chaos Continues.md",
     "When Samsung meets MediaTek - the story of a small bug chain.md",
     "Windows AppLocker Driver LPE Vulnerability - CVE-2024-21338.md",
@@ -168,20 +172,11 @@
     "Trail of Bits Testing Handbook.md",
     "Trail Of Bits Handbook - Fuzzing.md",
     "TIKTAG - Breaking ARM’s Memory Tagging Extension with Speculative Execution.md",
-    "\"Tianfu Cup 2023\" Chrome use-after-free.md",
     "4 exploits, 1 bug - Exploiting CVE-2024-20017 4 Different Ways.md",
     "15 bugs in Realtek Jungle SDK.md",
     "21 compilers and 3 orders of magnitude in 60 minutes.md",
     "30 Years of Decompilation and the Unsolved Structuring Problem - Part 1.md",
     "30 Years of Decompilation and the Unsolved Structuring Problem - Part 2.md",
-    "2023 CTF Challenge And Write-Up Database.md",
-    "2023 Firmware Security Thread.md",
-    "A Catastrophe For Control - Understanding the ScreenConnect Authentication Bypass.md",
-    "“To live is to fight, to fight is to live! - IBM ODM Remote Code Execution.md",
-    "A Deep Dive into the CoSoSys EndPoint Protector Exploit - Remote Code Execution.md",
-    "A Handful of Imagination GPU Vulnerabilities.md",
-    "Index.md",
-    "A LibAFL Introductory Workshop.md",
     "templates"
   ]
 }

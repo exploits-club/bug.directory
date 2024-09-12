@@ -1,4 +1,4 @@
-tags: #crypto #game_hacking #nintendo
+tags: #crypto #game_hacking #nintendo #prng
 original link: [Stardew Valley PRNG Seed Cracking](https://www.interruptlabs.co.uk/articles/stardew-valley-prng-seed-cracking?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 30](https://blog.exploits.club/exploits-club-weekly-newsletter-30/)
 
