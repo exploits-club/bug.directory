@@ -1,4 +1,4 @@
-tags: [[iot]], [[firmware]]
+tags: #iot #firmware
 original link: [Say Friend and Enter: Digitally lockpicking an advanced smart lock (Part 2)](https://alephsecurity.com/2024/03/07/kontrol-lux-lock-2/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 12](https://blog.exploits.club/exploits-club-weekly-newsletter-12/)
 

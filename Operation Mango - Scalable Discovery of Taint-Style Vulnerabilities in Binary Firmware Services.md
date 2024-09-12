@@ -1,4 +1,4 @@
-tags:  [[linux]], [[firmware]], [[static analysis]]
+tags: #linux #firmware #static_analysis
 original link:  [Operation Mango: Scalable Discovery of Taint-Style Vulnerabilities in Binary Firmware Services](https://wilgibbs.com/papers/mango_usenix24.pdf?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 14](https://blog.exploits.club/exploits-club-weekly-newsletter-14/)
 

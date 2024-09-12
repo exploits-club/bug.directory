@@ -1,4 +1,4 @@
-tags:  [[decompilation]], [[compilers]]
+tags: #decompilation #compilers
 original link:  [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 02](https://blog.exploits.club/exploits-club-weekly-newsletter-02/)
 

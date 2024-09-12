@@ -1,4 +1,4 @@
-tags: [[chrome]], [[type confusion]], [[v8]]
+tags: #chrome #type_confusion #v8
 original link:  [Chaining N-days to Compromise All: Part 1 — Chrome Renderer RCE](https://medium.com/theori-blog/chaining-n-days-to-compromise-all-part-1-chrome-renderer-rce-1afccf56721b)
 newsletter link: [exploits.club Weekly Newsletter 13](https://blog.exploits.club/exploits-club-weekly-newsletter-12-2/)
 

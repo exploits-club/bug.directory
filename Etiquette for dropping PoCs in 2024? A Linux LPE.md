@@ -1,4 +1,4 @@
-tags:  [[GSM]], [[heap overflow]], [[linux]], [[kernel]]
+tags: #GSM #heap_overflow #linux #kernel
 original link:  [Etiquette for dropping PoCs in 2024? A Linux LPE](https://x.com/roddux/status/1795392270616969653?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 23](https://blog.exploits.club/exploits-club-weekly-newsletter-23/)
 

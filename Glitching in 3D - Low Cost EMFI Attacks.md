@@ -1,4 +1,4 @@
-tags: [[glitching]], [[hardware hacking]], [[methodology]]
+tags: #glitching #hardware_hacking #methodology
 original link:  [Glitching in 3D: Low Cost EMFI Attacks](https://voidstarsec.com/fi-resources/?ref=blog.exploits.club#1)
 newsletter link:  [exploits.club Weekly Newsletter 10](https://blog.exploits.club/exploits-club-weekly-newsletter-10/) 
 

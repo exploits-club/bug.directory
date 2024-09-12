@@ -1,4 +1,4 @@
-tags: [[crypto]], [[learning resource]]
+tags: #crypto #learning_resource
 original link: [Modern Cryptographic Attacks: A Guide For The Perplexed](https://research.checkpoint.com/2024/modern-cryptographic-attacks-a-guide-for-the-perplexed/?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 28](https://blog.exploits.club/exploits-club-weekly-newsletter-28/) 
 

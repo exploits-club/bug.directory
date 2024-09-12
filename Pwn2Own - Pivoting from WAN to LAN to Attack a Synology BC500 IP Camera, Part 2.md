@@ -1,4 +1,4 @@
-tags:  [[pwn2own]], [[iot]], [[stack overflow]]
+tags: #pwn2own #iot #stack_overflow
 original link:  [Pwn2Own: Pivoting from WAN to LAN to Attack a Synology BC500 IP Camera, Part 2](https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 30](https://blog.exploits.club/exploits-club-weekly-newsletter-30/)
 

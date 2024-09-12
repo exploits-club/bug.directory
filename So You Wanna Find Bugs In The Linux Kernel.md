@@ -1,4 +1,4 @@
-tags:  [[linux]], [[kernel]], [[learning resource]], [[methodology]]
+tags: #linux #kernel #learning_resource #methodology
 original link: [So You Wanna Find Bugs In The Linux Kernel](https://github.com/sam4k/talk-slides/blob/main/so_you_wanna_find_bugs_in_the_linux_kernel.pdf?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 26](https://blog.exploits.club/exploits-club-weekly-newsletter-26/)
 

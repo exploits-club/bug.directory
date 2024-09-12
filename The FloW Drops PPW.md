@@ -1,4 +1,4 @@
-tags: [[console hacking]], [[heap overflow]], [[playstation]]
+tags: #console_hacking #heap_overflow #playstation
 original link:  [The FloW Drops PPW](https://github.com/TheOfficialFloW/PPPwn?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 19](https://blog.exploits.club/exploits-club-weekly-newsletter-19/)
 

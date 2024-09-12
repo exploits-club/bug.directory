@@ -1,4 +1,4 @@
-tags: [[secure boot]], [[media decoder]], [[auth bypass]], [[android]]
+tags: #secure_boot #media_decoder #auth_bypass #android
 original link: [When Samsung meets MediaTek: the story of a small bug chain](https://www.sstic.org/media/SSTIC2024/SSTIC-actes/when_vendor1_meets_vendor2_the_story_of_a_small_bu/SSTIC2024-Article-when_vendor1_meets_vendor2_the_story_of_a_small_bug_chain-rossi-bellom_neveu.pdf?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 33 - CPU Vulns, Breaking Samsung Bootloaders, Tony Hawk Pro Skater, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-33-cpu-vulns-breaking-samsung-bootloaders-tony-hawk-pro-skater-and-more-2/)
 

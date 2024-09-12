@@ -1,4 +1,4 @@
-tags: [[v8]], [[google VRP]] 
+tags: #v8 #google_VRP
 original link:  [Start Your Engines: Capturing the First Flag in Google's New v8CTF](https://www.madstacks.dev/posts/Start-Your-Engines-Capturing-the-First-Flag-in-Google's-New-v8CTF/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 03](https://blog.exploits.club/exploits-club-weekly-newsletter-03/)
 

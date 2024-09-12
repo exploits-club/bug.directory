@@ -1,4 +1,4 @@
-tags: [[firefox]], [[fuzzing]], [[ipc]]
+tags: #firefox #fuzzing #ipc
 original link: [IPC Fuzzing with Snapshots](https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 27](https://blog.exploits.club/exploits-club-weekly-newsletter-27/)
 

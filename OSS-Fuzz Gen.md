@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[llm]] 
+tags: #fuzzing #llm
 original link: [OSS-Fuzz Gen](https://github.com/google/oss-fuzz-gen?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 06](https://blog.exploits.club/exploits-club-weekly/)
 

@@ -1,4 +1,4 @@
-tags:  [[windows]], [[streaming service]], [[uaf]], [[methodology]]
+tags: #windows #streaming_service #uaf #methodology
 original link: [Racing round and round: The little bug that could](https://securityintelligence.com/x-force/little-bug-that-could/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 32 - Popping Basebands, Pwnie Nominated PrivEscs, The Compiler Landscape, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-32-2/)
 

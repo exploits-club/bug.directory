@@ -1,4 +1,4 @@
-tags: [[hardware hacking]], [[firmware]], [[microcontroller]], [[secure boot]]
+tags: #hardware_hacking #firmware #microcontroller #secure_boot
 original link: [Hardware and firmware reverse engineering primer: dissecting an FPV and video surveillance platform](https://subreption.com/blog/fpv-ipc-reverse-engineering/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 31](https://blog.exploits.club/exploits-club-weekly-newsletter-31/)
 

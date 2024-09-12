@@ -1,4 +1,4 @@
-tags: [[vmware]], [[hypervisor]], [[dos]], [[OOB read]]
+tags: #vmware #hypervisor #dos #OOB_read
 original link:  [Vulnerabilities found in VMWare by me](https://gabrieldurdiak.github.io/vmwarevuln/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 17](https://blog.exploits.club/exploits-club-weekly-newsletter-17/)
 

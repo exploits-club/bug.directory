@@ -1,4 +1,4 @@
-tags: [[GPU]], [[PowerVR]], [[uaf]]
+tags: #GPU #PowerVR #uaf
 original link:  [A Handful of Imagination GPU Vulnerabilities](https://x.com/1ce0ear/status/1749952249533510094?s=20&ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 05](https://blog.exploits.club/exploits-club-weekly-newsletter-05/)
 

@@ -1,4 +1,4 @@
-tags: [[linux]], [[kernel]], [[lpe]]
+tags: #linux #kernel #lpe
 original link: [SSD Advisory: Linux Kernel taprio OOB](https://ssd-disclosure.com/ssd-advisory-linux-kernel-taprio-oob/?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metadata, Kernel Streaming, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-36-regex-fuzzing-c-metadata-kernel-streaming-and-more/)
 

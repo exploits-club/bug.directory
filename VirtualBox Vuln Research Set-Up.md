@@ -1,4 +1,4 @@
-tags: [[hypervisor]], [[virtualbox]], [[learning resource]]
+tags: #hypervisor #virtualbox #learning_resource
 original link:  [VirtualBox Vuln Research Set-Up](https://github.com/farazsth98/hypervisor_research_notes/blob/master/virtualbox/README.md?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 11](https://blog.exploits.club/exploits-club-weekly-newsletter-10-2/) 
 

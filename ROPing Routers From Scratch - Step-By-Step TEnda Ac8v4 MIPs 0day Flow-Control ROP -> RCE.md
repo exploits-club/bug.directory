@@ -1,4 +1,4 @@
-tags: [[MIPs]], [[rop]], [[learning resource]]
+tags: #MIPs #rop #learning_resource
 original link:  [ROPing Routers From Scratch: Step-By-Step TEnda Ac8v4 MIPs 0day Flow-Control ROP -> RCE](https://0reg.dev/blog/tenda-ac8-rop?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 25](https://blog.exploits.club/exploits-club-weekly-newsletter-25/)
 

@@ -1,4 +1,4 @@
-tags:  [[learning resource]], [[fuzzing]], [[compilers]]
+tags: #learning_resource #fuzzing #compilers
 original link: [Understanding AddressSanitizer: Better memory safety for your code](https://blog.trailofbits.com/2024/05/16/understanding-addresssanitizer-better-memory-safety-for-your-code/?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 23](https://blog.exploits.club/exploits-club-weekly-newsletter-23/)
 

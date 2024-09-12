@@ -1,4 +1,4 @@
-tags:  [[mali]], [[gpu]], [[lpe]], [[android]], [[integer overflow]], [[info leak]]
+tags: #mali #gpu #lpe #android #integer_overflow #info_leak
 original link:  [Mali GPU Kernel LPE](https://github.com/0x36/Pixel_GPU_Exploit?ref=blog.exploits.club#mali-gpu-kernel-lpe)
 newsletter link: [exploits.club Weekly Newsletter 12](https://blog.exploits.club/exploits-club-weekly-newsletter-12/)  
 

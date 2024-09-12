@@ -1,4 +1,4 @@
-tags: [[glibc]], [[heap overflow]], [[OOB write]], [[OOB read]]
+tags: #glibc #heap_overflow #OOB_write #OOB_read
 original link:  [Qualys Releases Two glibc Bugs](https://www.qualys.com/research/security-advisories/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 06](https://blog.exploits.club/exploits-club-weekly/)
 

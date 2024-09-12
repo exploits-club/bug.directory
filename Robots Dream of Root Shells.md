@@ -1,4 +1,4 @@
-tags: [[ai]], [[llm]], [[darpa]], [[methodology]]
+tags: #ai #llm #darpa #methodology
 original link:  [Robots Dream of Root Shells](https://blog.isosceles.com/robots-dream-of-root-shells/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 12](https://blog.exploits.club/exploits-club-weekly-newsletter-12/)
 

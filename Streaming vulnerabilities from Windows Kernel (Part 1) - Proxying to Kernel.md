@@ -1,4 +1,4 @@
-tags: [[windows]], [[streaming service]], [[kernel]], [[pwn2own]], [[OOB read]], [[OOB write]] 
+tags: #windows #streaming_service #kernel #pwn2own #OOB_read #OOB_write
 original link:  [Streaming vulnerabilities from Windows Kernel (Part 1): Proxying to Kernel](https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metadata, Kernel Streaming, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-36-regex-fuzzing-c-metadata-kernel-streaming-and-more/)
 

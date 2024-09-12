@@ -1,4 +1,4 @@
-tags: [[android]], [[lpe]], [[kernel]], [[OOB write]], [[race condition]], [[uaf]], [[double free]]
+tags: #android #lpe #kernel #OOB_write #race_condition #uaf #double_free
 original link: [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 26](https://blog.exploits.club/exploits-club-weekly-newsletter-26/)
 

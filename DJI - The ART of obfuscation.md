@@ -1,4 +1,4 @@
-tags: [[android]], [[java]]
+tags: #android #java
 original link:  [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 07](https://blog.exploits.club/exploits-club-weekly-newsletter-07/) 
 

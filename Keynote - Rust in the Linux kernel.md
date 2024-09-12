@@ -1,4 +1,4 @@
-tags: [[rust]], [[linux]], [[kernel]], [[android]], [[binder]]
+tags: #rust #linux #kernel #android #binder
 original link: [Keynote | Rust in the Linux kernel](https://www.youtube.com/watch?v=CEznkXjYFb4&t=1s&ab_channel=RustLabConference&ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 08](https://blog.exploits.club/exploits-club-weekly-newsletter-08/)  
 

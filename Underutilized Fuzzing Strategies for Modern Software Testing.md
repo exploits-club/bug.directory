@@ -1,4 +1,4 @@
-tags: [[fuzzing]], [[LibAFL]], [[methodology]]
+tags: #fuzzing #LibAFL #methodology
 original link:  [Underutilized Fuzzing Strategies for Modern Software Testing](https://www.trailofbits.com/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 08](https://blog.exploits.club/exploits-club-weekly-newsletter-08/) 
 

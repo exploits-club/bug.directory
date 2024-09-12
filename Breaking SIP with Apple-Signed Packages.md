@@ -1,4 +1,4 @@
-tags:  [[macos]], [[sip]], [[auth bypass]]
+tags: #macos #sip #auth_bypass
 original link:  [Breaking SIP with Apple-Signed Packages](https://www.l3harris.com/newsroom/editorial/2024/03/breaking-sip-apple-signed-packages?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 21](https://blog.exploits.club/exploits-club-weekly-newsletter-21/)
 

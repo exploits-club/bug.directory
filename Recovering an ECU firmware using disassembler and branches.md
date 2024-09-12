@@ -1,4 +1,4 @@
-tags: [[firmware]], [[car hacking]], [[iot]]
+tags: #firmware #car_hacking #iot
 original link:  [Recovering an ECU firmware using disassembler and branches](https://blog.quarkslab.com/recovering-an-ecu-firmware-using-disassembler-and-branches.html?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 26](https://blog.exploits.club/exploits-club-weekly-newsletter-26/)
  

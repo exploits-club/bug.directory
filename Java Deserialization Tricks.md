@@ -1,4 +1,4 @@
-tags:  [[java]], [[deserialization]]
+tags: #java #deserialization
 original link: [Java Deserialization Tricks](https://www.synacktiv.com/en/publications/java-deserialization-tricks.html?ref=blog.exploits.club)  
 newsletter link: [exploits.club Weekly Newsletter 13](https://blog.exploits.club/exploits-club-weekly-newsletter-12-2/) 
 

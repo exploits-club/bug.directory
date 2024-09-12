@@ -1,4 +1,4 @@
-tags: [[v8]], [[type confusion]], [[chrome]], 
+tags: #v8 #type_confusion #chrome]],
 original link:  [Attack of the clones: Getting RCE in Chrome's renderer with duplicate object properties](https://github.blog/2024-06-26-attack-of-the-clones-getting-rce-in-chromes-renderer-with-duplicate-object-properties/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 27](https://blog.exploits.club/exploits-club-weekly-newsletter-27/)
 

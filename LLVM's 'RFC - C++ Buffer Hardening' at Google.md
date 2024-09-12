@@ -1,4 +1,4 @@
-tags: [[compilers]], [[mitigation]]
+tags: #compilers #mitigation
 original link:  [LLVM's 'RFC: C++ Buffer Hardening' at Google](https://bughunters.google.com/blog/6368559657254912/llvm-s-rfc-c-buffer-hardening-at-google?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 08](https://blog.exploits.club/exploits-club-weekly-newsletter-08/) 
 

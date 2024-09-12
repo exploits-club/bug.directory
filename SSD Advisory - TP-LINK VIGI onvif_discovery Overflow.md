@@ -1,4 +1,4 @@
-tags: [[iot]], [[router]], [[tp-link]], [[stack overflow]], [[rop]]
+tags: #iot #router #tp-link #stack_overflow #rop
 original link:  [SSD Advisory: TP-LINK VIGI onvif_discovery Overflow](https://ssd-disclosure.com/ssd-advisory-tp-link-vigi-onvif_discovery-overflow/?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 26](https://blog.exploits.club/exploits-club-weekly-newsletter-26/)
 

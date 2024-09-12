@@ -1,4 +1,4 @@
-tags:  [[prng]] [[bluetooth]] [[black hat]] [[hardware hacking]]
+tags: #prng]]_[[bluetooth]]_[[black_hat]]_[[hardware_hacking
 original link:  [Shuffle Up and Deal: Analyzing the Security of Automated Card Shufflers](https://www.youtube.com/watch?v=QrwlzoU1bQw&t=35s&ab_channel=BlackHat&ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 02](https://blog.exploits.club/exploits-club-weekly-newsletter-02/) 
 

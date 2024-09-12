@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[LibAFL]], [[learning resource]]
+tags: #fuzzing #LibAFL #learning_resource
 original link:  [LibAFL workshop](https://www.atredis.com/blog/2023/12/4/a-libafl-introductory-workshop?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 01](https://blog.exploits.club/vuln-research-newsletter-01/)
 

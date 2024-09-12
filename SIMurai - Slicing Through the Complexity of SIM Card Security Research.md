@@ -1,4 +1,4 @@
-tags:  [[emulation]], [[android]], [[baseband]], [[fuzzing]]
+tags: #emulation #android #baseband #fuzzing
 original link: [SIMurai: Slicing Through the Complexity of SIM Card Security Research](https://www.usenix.org/conference/usenixsecurity24/presentation/lisowski?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 35 - NPU exploits, Phrack 71, 2014 Tablet Hacks, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-35-npu-exploits-phrack-71-2014-tablet-hacks-and-more/) 
 

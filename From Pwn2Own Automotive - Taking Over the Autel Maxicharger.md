@@ -1,4 +1,4 @@
-tags:  [[pwn2own]], [[car hacking]], [[stack overflow]]
+tags: #pwn2own #car_hacking #stack_overflow
 original link: [From Pwn2Own Automotive: Taking Over the Autel Maxicharger](https://www.zerodayinitiative.com/blog/2024/8/22/from-pwn2own-automotive-taking-over-the-autel-maxicharger?ref=blog.exploits.club)  
 newsletter link: [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metadata, Kernel Streaming, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-36-regex-fuzzing-c-metadata-kernel-streaming-and-more/) 
 

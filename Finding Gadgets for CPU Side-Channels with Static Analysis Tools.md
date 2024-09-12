@@ -1,4 +1,4 @@
-tags: [[side channel]], [[static analysis]], [[graphQL]], [[spectre]]
+tags: #side_channel #static_analysis #graphQL #spectre
 original link:  [Finding Gadgets for CPU Side-Channels with Static Analysis Tools](https://github.com/google/security-research/tree/master/pocs/cpus/spectre-gadgets?ref=blog.exploits.club#finding-gadgets-for-cpu-side-channels-with-static-analysis-tools)
 newsletter link: [exploits.club Weekly Newsletter 10](https://blog.exploits.club/exploits-club-weekly-newsletter-10/)
 

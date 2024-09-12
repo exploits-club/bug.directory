@@ -1,4 +1,4 @@
-tags:  [[android]], [[google VRP]]
+tags: #android #google_VRP
 original link:  [One Year of Mobile VRP: Reward Increases and Lessons Learned](https://bughunters.google.com/blog/5792192022577152/one-year-of-mobile-vrp-reward-increases-and-lessons-learned?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 19](https://blog.exploits.club/exploits-club-weekly-newsletter-19/)
 

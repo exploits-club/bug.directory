@@ -1,4 +1,4 @@
-tags: [[fuzzing]], [[emulation]], [[methodology]]
+tags: #fuzzing #emulation #methodology
 original link:  [Fuzzer Development 3: Building Bochs, MMU, and File I/0](https://h0mbre.github.io/Loading_Bochs/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 11](https://blog.exploits.club/exploits-club-weekly-newsletter-10-2/)
 

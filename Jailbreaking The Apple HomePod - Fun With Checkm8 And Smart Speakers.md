@@ -1,4 +1,4 @@
-tags: [[hardware hacking]], [[iot]], [[firmware]]
+tags: #hardware_hacking #iot #firmware
 original link:  [Jailbreaking The Apple HomePod: Fun With Checkm8 And Smart Speakers](https://www.youtube.com/watch?v=C04YXQk3zlE&ab_channel=nullcon&ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 11](https://blog.exploits.club/exploits-club-weekly-newsletter-10-2/) 
 

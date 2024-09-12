@@ -1,4 +1,4 @@
-tags: [[bluetooth]], [[hypervisor]], [[vmware]]
+tags: #bluetooth #hypervisor #vmware
 original link:  [Chaining N-days to Compromise All: Part 4 — VMware Workstation Information leakage](https://blog.theori.io/chaining-n-days-to-compromise-all-part-4-vmware-workstation-information-leakage-44476b05d410?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 17](https://blog.exploits.club/exploits-club-weekly-newsletter-17/) 
 

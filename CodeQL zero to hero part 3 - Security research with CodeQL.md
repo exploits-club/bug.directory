@@ -1,4 +1,4 @@
-tags: [[codeQL]], [[static analysis]], [[learning resource]], [[methodology]]
+tags: #codeQL #static_analysis #learning_resource #methodology
 original link:  [CodeQL zero to hero part 3: Security research with CodeQL](https://github.blog/2024-04-29-codeql-zero-to-hero-part-3-security-research-with-codeql/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 19](https://blog.exploits.club/exploits-club-weekly-newsletter-19/)
 

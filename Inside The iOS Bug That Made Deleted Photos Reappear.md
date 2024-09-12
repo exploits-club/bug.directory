@@ -1,4 +1,4 @@
-tags: [[iOS]], [[bindiff]]
+tags: #iOS #bindiff
 original link:  [Inside The iOS Bug That Made Deleted Photos Reappear](https://www.synacktiv.com/publications/inside-the-ios-bug-that-made-deleted-photos-reappear?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 23](https://blog.exploits.club/exploits-club-weekly-newsletter-23/)
 

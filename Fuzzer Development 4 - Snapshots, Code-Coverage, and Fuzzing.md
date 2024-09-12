@@ -1,4 +1,4 @@
-tags: [[methodology]], [[fuzzing]], [[emulation]]
+tags: #methodology #fuzzing #emulation
 original link:  [Fuzzer Development 4: Snapshots, Code-Coverage, and Fuzzing](https://h0mbre.github.io/Lucid_Snapshots_Coverage/?ref=blog.exploits.club#)
 newsletter link: [exploits.club Weekly Newsletter 27](https://blog.exploits.club/exploits-club-weekly-newsletter-27/)
 

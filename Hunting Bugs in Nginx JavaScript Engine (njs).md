@@ -1,4 +1,4 @@
-tags: [[type confusion]], [[OOB read]], [[codeQL]], [[fuzzing]]
+tags: #type_confusion #OOB_read #codeQL #fuzzing
 original link: [Hunting Bugs in Nginx JavaScript Engine (njs)](https://0xbigshaq.github.io/2024/05/24/njs-vr-bugs/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 23](https://blog.exploits.club/exploits-club-weekly-newsletter-23/) 
 

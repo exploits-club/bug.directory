@@ -1,4 +1,4 @@
-tags: [[enterprise app]], [[java]], [[deserialization]]
+tags: #enterprise_app #java #deserialization
 original link:  [“To live is to fight, to fight is to live! - IBM ODM Remote Code Execution](https://labs.watchtowr.com/double-k-o-rce-in-ibm-operation-decision-manager/?ref=blog.exploits.club)
 newsletter link: 
 

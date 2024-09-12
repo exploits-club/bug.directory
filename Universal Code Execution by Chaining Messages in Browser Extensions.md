@@ -1,4 +1,4 @@
-tags: [[browser extension]], [[browser]]
+tags: #browser_extension #browser
 original link:  [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 29](https://blog.exploits.club/exploits-club-weekly-newsletter-29/) 
 

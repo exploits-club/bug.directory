@@ -1,4 +1,4 @@
-tags:  [[iOS]], [[kernel]], [[uaf]], [[integer overflow]] 
+tags: #iOS #kernel #uaf #integer_overflow
 original link:  [kfd write-ups](https://github.com/felix-pb/kfd/tree/main/writeups?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 02](https://blog.exploits.club/exploits-club-weekly-newsletter-02/)
 

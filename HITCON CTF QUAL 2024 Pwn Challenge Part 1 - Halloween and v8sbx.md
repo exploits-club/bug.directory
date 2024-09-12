@@ -1,4 +1,4 @@
-tags: [[ctf]], [[linux]], [[kernel]], [[auth bypass]], [[race condition]], [[info leak]], [[v8]]
+tags: #ctf #linux #kernel #auth_bypass #race_condition #info_leak #v8
 original link: [HITCON CTF QUAL 2024 Pwn Challenge Part 1 - Halloween and v8sbx](https://u1f383.github.io/ctf/2024/07/16/hitcon-ctf-qual-2024-pwn-challenge-part-1-halloween-and-v8sbx.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 31](https://blog.exploits.club/exploits-club-weekly-newsletter-31/)
 

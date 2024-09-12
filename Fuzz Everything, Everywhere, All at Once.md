@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[LibAFL]] 
+tags: #fuzzing #LibAFL
 original link:  [Fuzz Everything, Everywhere, All at Once](https://media.ccc.de/v/37c3-12102-fuzz_everything_everywhere_all_at_once?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 01](https://blog.exploits.club/vuln-research-newsletter-01/)
 

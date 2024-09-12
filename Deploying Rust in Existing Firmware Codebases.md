@@ -1,4 +1,4 @@
-tags:  [[rust]], [[methodology]], [[firmware]], [[learning resource]], [[android]]
+tags: #rust #methodology #firmware #learning_resource #android
 original link: [Deploying Rust in Existing Firmware Codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 37 - Juicy Overflows, The Art Of Exploitation, Rust in Firmware, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-37-juicy-overflows-the-art-of-exploitation-rust-in-firmware-and-more/)
 

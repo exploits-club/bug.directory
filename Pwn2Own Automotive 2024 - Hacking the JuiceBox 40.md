@@ -1,4 +1,4 @@
-tags: [[stack overflow]], [[car hacking]], [[hardware hacking]], [[pwn2own]] 
+tags: #stack_overflow #car_hacking #hardware_hacking #pwn2own
 original link: [Pwn2Own Automotive 2024: Hacking the JuiceBox 40](https://sector7.computest.nl/post/2024-08-pwn2own-automotive-juicebox-40/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 37 - Juicy Overflows, The Art Of Exploitation, Rust in Firmware, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-37-juicy-overflows-the-art-of-exploitation-rust-in-firmware-and-more/)
 

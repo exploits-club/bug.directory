@@ -1,4 +1,4 @@
-tags: [[secure boot]], [[hardware hacking]], [[firmware]], [[iot]] 
+tags: #secure_boot #hardware_hacking #firmware #iot
 original link: [Hacking a 2014 Tablet...in 2024](https://blog.r0rt1z2.com/hacking-a-2014-tablet-in-2024.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 35 - NPU exploits, Phrack 71, 2014 Tablet Hacks, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-35-npu-exploits-phrack-71-2014-tablet-hacks-and-more/) 
 

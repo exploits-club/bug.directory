@@ -1,4 +1,4 @@
-tags:  [[hypervisor]], [[learning resource]]
+tags: #hypervisor #learning_resource
 original link: [OST2 Introductory Course To HyperDbg](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kF1f143wlw8ujlH2A45nZY&ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 29](https://blog.exploits.club/exploits-club-weekly-newsletter-29/)
 

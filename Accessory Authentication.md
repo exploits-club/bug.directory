@@ -1,4 +1,4 @@
-tags: [[microcontroller]], [[embedded]], [[hardware hacking]]
+tags: #microcontroller #embedded #hardware_hacking
 original link:  [Accessory Authentication](https://ioactive.com/accessory-authentication-part-1-3/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 18](https://blog.exploits.club/exploits-club-weekly-newsletter-18/)
 

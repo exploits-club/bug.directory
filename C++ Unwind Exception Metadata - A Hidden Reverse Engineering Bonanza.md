@@ -1,4 +1,4 @@
-tags:  [[methodology]], [[learning resource]], [[ida]]
+tags: #methodology #learning_resource #ida
 original link: [C++ Unwind Exception Metadata: A Hidden Reverse Engineering Bonanza](https://www.msreverseengineering.com/blog/2024/8/20/c-unwind-metadata-1?ref=blog.exploits.club) 
 newsletter link:  [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metadata, Kernel Streaming, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-36-regex-fuzzing-c-metadata-kernel-streaming-and-more/)
 

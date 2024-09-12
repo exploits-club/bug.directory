@@ -1,4 +1,4 @@
-tags: [[iot]], [[pwn2own]], [[auth bypass]]
+tags: #iot #pwn2own #auth_bypass
 original link:  [ZDI Discloses Lexmark Pwn2Own Bugs](https://www.zerodayinitiative.com/advisories/published/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 06](https://blog.exploits.club/exploits-club-weekly/)
 

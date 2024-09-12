@@ -1,4 +1,4 @@
-tags: [[arbitrary file write]], [[OOB write]], [[ai]], [[enterprise app]]
+tags: #arbitrary_file_write #OOB_write #ai #enterprise_app
 original link: [Preauth RCE on NVIDIA Triton Server](https://sites.google.com/site/zhiniangpeng/blogs/Triton-RCE?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 26](https://blog.exploits.club/exploits-club-weekly-newsletter-26/)
 

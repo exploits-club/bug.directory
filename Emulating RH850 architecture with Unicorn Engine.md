@@ -1,4 +1,4 @@
-tags: [[unicorn]], [[emulation]], [[fuzzing]]
+tags: #unicorn #emulation #fuzzing
 original link:  [Emulating RH850 architecture with Unicorn Engine](https://blog.quarkslab.com/emulating-rh850-architecture-with-unicorn-engine.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 19](https://blog.exploits.club/exploits-club-weekly-newsletter-19/) 
 

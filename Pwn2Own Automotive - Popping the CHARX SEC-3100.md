@@ -1,4 +1,4 @@
-tags: [[car hacking]], [[pwn2own]], [[cop]]
+tags: #car_hacking #pwn2own #cop
 original link: [Pwn2Own Automotive: Popping the CHARX SEC-3100](https://blog.ret2.io/2024/07/24/pwn2own-auto-2024-charx-exploit/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 31](https://blog.exploits.club/exploits-club-weekly-newsletter-31/)
 

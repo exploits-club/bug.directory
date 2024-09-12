@@ -1,4 +1,4 @@
-tags: [[uaf]], [[linux]], [[kernel]], [[tipc]], [[lpe]] 
+tags: #uaf #linux #kernel #tipc #lpe
 original link: [ZDI-24-821: A Remote UAF in The Kernel's net/tipc](https://sam4k.com/zdi-24-821-a-remote-use-after-free-in-the-kernels-net-tipc/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 28](https://blog.exploits.club/exploits-club-weekly-newsletter-28/)  
 

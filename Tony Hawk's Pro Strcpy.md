@@ -1,4 +1,4 @@
-tags: [[stack overflow]], [[game hacking]], [[console hacking]] 
+tags: #stack_overflow #game_hacking #console_hacking
 original link: [Tony Hawk's Pro Strcpy](https://www.youtube.com/watch?v=Pjqw1Gwk0jg&ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 33 - CPU Vulns, Breaking Samsung Bootloaders, Tony Hawk Pro Skater, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-33-cpu-vulns-breaking-samsung-bootloaders-tony-hawk-pro-skater-and-more-2/)
 

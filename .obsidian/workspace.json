@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DJI - The ART of obfuscation.md",
+                "file": "\"Tianfu Cup 2023\" Chrome use-after-free.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "cf4a1733f5a64329",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#test",
+                "query": "tag:#fuzzing",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,32 +156,32 @@
   },
   "active": "cab369bb8aa4c4fe",
   "lastOpenFiles": [
-    "DJI - The ART of obfuscation.md",
-    "Index.md",
-    "ZDI-24-821 - A Remote UAF in The Kernel's net tipc.md",
-    "ZDI Discloses Lexmark Pwn2Own Bugs.md",
-    "You Can’t Spell WebRTC without RCE - Part 3.md",
-    "You Can't Spell WebRTC without RCE - Part 2.md",
-    "You Can't Spell WebRTC without RCE - Part 1.md",
-    "Windows AppLocker Driver LPE Vulnerability - CVE-2024-21338.md",
-    "When Samsung meets MediaTek - the story of a small bug chain.md",
     "Welcome To 2024 - The SSLVPN Chaos Continues.md",
-    "Vulnerabilities found in VMWare by me.md",
-    "VirtualBox Vuln Research Set-Up.md",
-    "Untitled 4.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "When Samsung meets MediaTek - the story of a small bug chain.md",
+    "Windows AppLocker Driver LPE Vulnerability - CVE-2024-21338.md",
+    "You Can't Spell WebRTC without RCE - Part 1.md",
+    "You Can’t Spell WebRTC without RCE - Part 3.md",
     "Universal Code Execution by Chaining Messages in Browser Extensions.md",
     "Underutilized Fuzzing Strategies for Modern Software Testing.md",
-    "Understanding AddressSanitizer - Better memory safety for your code.md",
     "Unburdened By What Has Been - Exploiting New Attack Surfaces in Radio Layer 2 for Baseband RCE on Samsung Exynos.md",
     "Unauthenticated Command Execution on Tp-Link AC1350.md",
-    "UAF in PowerVR.md",
     "Trail of Bits Testing Handbook.md",
     "Trail Of Bits Handbook - Fuzzing.md",
-    "Tony Hawk's Pro Strcpy.md",
     "TIKTAG - Breaking ARM’s Memory Tagging Extension with Speculative Execution.md",
+    "\"Tianfu Cup 2023\" Chrome use-after-free.md",
+    "4 exploits, 1 bug - Exploiting CVE-2024-20017 4 Different Ways.md",
+    "15 bugs in Realtek Jungle SDK.md",
+    "21 compilers and 3 orders of magnitude in 60 minutes.md",
+    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 1.md",
+    "30 Years of Decompilation and the Unsolved Structuring Problem - Part 2.md",
+    "2023 CTF Challenge And Write-Up Database.md",
+    "2023 Firmware Security Thread.md",
+    "A Catastrophe For Control - Understanding the ScreenConnect Authentication Bypass.md",
+    "“To live is to fight, to fight is to live! - IBM ODM Remote Code Execution.md",
+    "A Deep Dive into the CoSoSys EndPoint Protector Exploit - Remote Code Execution.md",
+    "A Handful of Imagination GPU Vulnerabilities.md",
+    "Index.md",
+    "A LibAFL Introductory Workshop.md",
     "templates"
   ]
 }

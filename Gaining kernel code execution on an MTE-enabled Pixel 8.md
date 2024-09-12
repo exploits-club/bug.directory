@@ -1,4 +1,4 @@
-tags:  [[android]], [[mte]], [[pixel]], [[lpe]], [[mali]], [[gpu]]
+tags: #android #mte #pixel #lpe #mali #gpu
 original link:  [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 13](https://blog.exploits.club/exploits-club-weekly-newsletter-12-2/)
 

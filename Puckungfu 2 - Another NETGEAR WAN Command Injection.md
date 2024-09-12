@@ -1,4 +1,4 @@
-tags:  [[router]], [[pwn2own]], [[command injection]]
+tags: #router #pwn2own #command_injection
 original link: [Puckungfu 2: Another NETGEAR WAN Command Injection](https://research.nccgroup.com/2024/02/09/puckungfu-2-another-netgear-wan-command-injection/?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 08](https://blog.exploits.club/exploits-club-weekly-newsletter-08/)
 

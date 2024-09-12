@@ -1,4 +1,4 @@
-tags: [[lpe]], [[windows]], [[kernel]]
+tags: #lpe #windows #kernel
 original link:  [Chaining N-days to Compromise All: Windows Driver LPE: Medium to System](https://medium.com/theori-blog/chaining-n-days-to-compromise-all-part-3-windows-driver-lpe-medium-to-system-12f7821d97bb?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 16](https://blog.exploits.club/exploits-club-weekly-newsletter-16/)
 

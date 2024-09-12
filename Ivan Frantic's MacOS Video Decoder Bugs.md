@@ -1,4 +1,4 @@
-tags:  [[macos]], [[media decoder]], [[fuzzing]]
+tags: #macos #media_decoder #fuzzing
 original link:  [Ivan Frantic's MacOS Video Decoder Bugs](https://twitter.com/ifsecure/status/1745494386517938639?ref=blog.exploits.club)
 newsletter link: 
 

@@ -1,4 +1,4 @@
-tags: [[fuzzing]], [[methodology]], [[libfuzzer]], [[learning resource]]
+tags: #fuzzing #methodology #libfuzzer #learning_resource
 original link: [Ring Around The Regex: Lessons learned from fuzzing regex libraries (Part 2)](https://secret.club/2024/08/23/ring-around-the-regex-2.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metadata, Kernel Streaming, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-36-regex-fuzzing-c-metadata-kernel-streaming-and-more/)
 

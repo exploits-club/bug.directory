@@ -1,4 +1,4 @@
-tags: [[ITW]], [[internet explorer]]
+tags: #ITW #internet_explorer
 original link:  [Resurrecting Internet Explorer: Threat Actors Using Zero-Day Tricks In Internet Shortcut File To Lure Victims](https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 29](https://blog.exploits.club/exploits-club-weekly-newsletter-29/) 
 

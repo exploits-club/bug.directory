@@ -1,4 +1,4 @@
-tags: [[mte]], [[mitigation]], [[kernel]], [[pixel]], [[spectre]]
+tags: #mte #mitigation #kernel #pixel #spectre
 original link:  [TIKTAG: Breaking ARM’s Memory Tagging Extension with Speculative Execution](https://arxiv.org/pdf/2406.08719?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 26](https://blog.exploits.club/exploits-club-weekly-newsletter-26/)
 

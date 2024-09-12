@@ -1,4 +1,4 @@
-tags: [[fuzzing]], [[methodology]], [[emulation]]
+tags: #fuzzing #methodology #emulation
 original link:  [Fuzzer Development: Sandboxing Syscalls](https://h0mbre.github.io/Lucid_Context_Switching/?ref=blog.exploits.club#)
 newsletter link: [exploits.club Weekly Newsletter 09](https://blog.exploits.club/exploits-club-weekly-newsletter-09/)
 

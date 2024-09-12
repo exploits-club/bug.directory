@@ -1,4 +1,4 @@
-tags:  [[iot]], [[firmware]], [[learning resource]], [[methodology]], [[pwn2own]]
+tags: #iot #firmware #learning_resource #methodology #pwn2own
 original link: [ARLO: I'm Watching You](https://www.synacktiv.com/publications/arlo-im-watching-you?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 12](https://blog.exploits.club/exploits-club-weekly-newsletter-12/) 
 

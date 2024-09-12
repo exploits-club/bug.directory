@@ -1,4 +1,4 @@
-tags: [[windows]], [[hardware hacking]]
+tags: #windows #hardware_hacking
 original link:  [Breaking Bitlocker - Bypassing the Windows Disk Encryption](https://www.youtube.com/watch?v=wTl4vEednkQ&ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 07](https://blog.exploits.club/exploits-club-weekly-newsletter-07/) 
 

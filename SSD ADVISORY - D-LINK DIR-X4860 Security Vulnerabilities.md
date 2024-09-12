@@ -1,4 +1,4 @@
-tags: [[iot]], [[auth bypass]], [[command injection]], [[d-link]], [[router]]
+tags: #iot #auth_bypass #command_injection #d-link #router
 original link:  [SSD ADVISORY: D-LINK DIR-X4860 Security Vulnerabilities](https://ssd-disclosure.com/2024/05/14/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 22](https://blog.exploits.club/exploits-club-weekly-newsletter-22/)
 

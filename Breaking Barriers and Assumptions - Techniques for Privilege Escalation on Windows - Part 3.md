@@ -1,4 +1,4 @@
-tags: [[windows]], [[lpe]], [[learning resource]]
+tags: #windows #lpe #learning_resource
 original link: [Breaking Barriers and Assumptions: Techniques for Privilege Escalation on Windows: Part 3](https://www.zerodayinitiative.com/blog/2024/7/31/breaking-barriers-and-assumptions-techniques-for-privilege-escalation-on-windows-part-3?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 33 - CPU Vulns, Breaking Samsung Bootloaders, Tony Hawk Pro Skater, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-33-cpu-vulns-breaking-samsung-bootloaders-tony-hawk-pro-skater-and-more-2/)
 

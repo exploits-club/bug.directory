@@ -1,4 +1,4 @@
-tags:  [[llm]], [[fuzzing]] 
+tags: #llm #fuzzing
 original link: [Introducing LLM-based harness synthesis for unfuzzed projects](https://blog.oss-fuzz.com/posts/introducing-llm-based-harness-synthesis-for-unfuzzed-projects/?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 23](https://blog.exploits.club/exploits-club-weekly-newsletter-23/) 
 

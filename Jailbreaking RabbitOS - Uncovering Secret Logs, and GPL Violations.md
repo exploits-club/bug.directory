@@ -1,4 +1,4 @@
-tags: [[java]], [[android]], [[ai]], [[secure boot]]
+tags: #java #android #ai #secure_boot
 original link: [Jailbreaking RabbitOS: Uncovering Secret Logs, and GPL Violations](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html?ref=blog.exploits.club#jailbreaking-rabbitos-uncovering-secret-logs-and-gpl-violations)
 newsletter link: [exploits.club Weekly Newsletter 30](https://blog.exploits.club/exploits-club-weekly-newsletter-30/) 
 

@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[methodology]], [[libfuzzer]]
+tags: #fuzzing #methodology #libfuzzer
 original link: [Ring Around The Regex: Lessons learned from fuzzing regex libraries (Part 1)](https://secret.club/2024/06/30/ring-around-the-regex-1.html?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 28](https://blog.exploits.club/exploits-club-weekly-newsletter-28/)  
 

@@ -1,4 +1,4 @@
-tags:  [[hardware hacking]], [[learning resource]]
+tags: #hardware_hacking #learning_resource
 original link: [#BadgeLife @ Off-By-One Conference 2024](https://starlabs.sg/blog/2024/07-badgelife-at-off-by-one-conference-2024/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 31](https://blog.exploits.club/exploits-club-weekly-newsletter-31/) 
 

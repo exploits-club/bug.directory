@@ -1,4 +1,4 @@
-tags: [[llm]], [[ai]] 
+tags: #llm #ai
 original link: [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 27](https://blog.exploits.club/exploits-club-weekly-newsletter-27/)
 

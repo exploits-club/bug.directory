@@ -1,4 +1,4 @@
-tags:  [[uaf]], [[linux]], [[kernel]], [[race condition]]
+tags: #uaf #linux #kernel #race_condition
 original link: [Race condition in 9p File System](https://r00tkitsmm.github.io/fuzzing/2024/05/29/Race-into-9p.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 23](https://blog.exploits.club/exploits-club-weekly-newsletter-23/)
 

@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[methodology]]
+tags: #fuzzing #methodology
 original link: [Meta Bug Bounty: Fuzzing "netconsd" for fun and profit](https://blog.fadyothman.com/meta-bug-bounty-fuzzing-netconsd-for-fun-and-profit-part-1-6ffe96eb1419?ref=blog.exploits.club) 
 newsletter link:  [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metadata, Kernel Streaming, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-36-regex-fuzzing-c-metadata-kernel-streaming-and-more/)
 

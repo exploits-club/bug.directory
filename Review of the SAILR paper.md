@@ -1,4 +1,4 @@
-tags:  [[decompilation]], [[compilers]]
+tags: #decompilation #compilers
 original link: [Review of the SAILR paper](https://pad.rev.ng/s/**T3RdsvKNx?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 07](https://blog.exploits.club/exploits-club-weekly-newsletter-07/)  
 

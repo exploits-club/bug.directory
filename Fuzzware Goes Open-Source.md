@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[firmware]]
+tags: #fuzzing #firmware
 original link:  [Fuzzware Goes Open-Source](https://github.com/fuzzware-fuzzer/fuzzware?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 05](https://blog.exploits.club/exploits-club-weekly-newsletter-05/)
 

@@ -1,4 +1,4 @@
-tags: [[v8]], [[JIT]], [[chrome]],
+tags: #v8 #JIT #chrome]],
 original link: [Return of the JIT](https://lampreylabs.com/posts/return-of-the-jit/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 30](https://blog.exploits.club/exploits-club-weekly-newsletter-30/)
 

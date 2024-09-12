@@ -1,4 +1,4 @@
-tags:  [[iot]], [[android]], [[bluetooth]], [[methodology]], [[firmware]]
+tags: #iot #android #bluetooth #methodology #firmware
 original link: [Say Friend and Enter: Digitally lockpicking an advanced smart lock](https://alephsecurity.com/2024/02/20/kontrol-lux-lock-1/?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 09](https://blog.exploits.club/exploits-club-weekly-newsletter-09/) 
 

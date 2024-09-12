@@ -1,4 +1,4 @@
-tags:  [[fuzzing]], [[UEFI]], [[heap overflow]]
+tags: #fuzzing #UEFI #heap_overflow
 original link:  [Inside the LogoFAIL PoC: From Integer Overflow to Arbitrary Code Execution](https://binarly.io/posts/inside_the_logofail_poc_from_integer_overflow_to_arbitrary_code_execution/index.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 06](https://blog.exploits.club/exploits-club-weekly/)
 

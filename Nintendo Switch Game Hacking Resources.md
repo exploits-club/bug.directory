@@ -1,4 +1,4 @@
-tags:  [[console hacking]], [[nintendo]], [[learning resource]], [[game hacking]]
+tags: #console_hacking #nintendo #learning_resource #game_hacking
 original link: [Nintendo Switch Game Hacking Resources](https://github.com/nintendoSwitch12/NintendoSwitchGameHacking?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 01](https://blog.exploits.club/vuln-research-newsletter-01/)
 

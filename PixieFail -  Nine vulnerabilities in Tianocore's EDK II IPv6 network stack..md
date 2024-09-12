@@ -1,4 +1,4 @@
-tags:  [[UEFI]], [[IPv6]]
+tags: #UEFI #IPv6
 original link:  [PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack.](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 04](https://blog.exploits.club/exploits-club-weekly-newsletter-04/)
 

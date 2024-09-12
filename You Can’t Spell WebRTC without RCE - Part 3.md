@@ -1,4 +1,4 @@
-tags:  [[signal]], [[android]], [[iOS]], [[webrtc]], [[learning resource]], [[messenger]]
+tags: #signal #android #iOS #webrtc #learning_resource #messenger
 original link: [You Can’t Spell WebRTC without RCE: Part 3](https://margin.re/2024/08/you-cant-spell-webrtc-without-rce-part-3/?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 34 - V8 Confusions, Smart Speaker Spying, Summer Camp Round-Up, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-34-v8-confusions-smart-speaker-spying-summer-camp-round-up-and-more-2/)
 

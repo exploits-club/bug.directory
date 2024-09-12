@@ -1,4 +1,4 @@
-tags: [[v8]], [[type confusion]], [[chrome]], [[sbx]]
+tags: #v8 #type_confusion #chrome #sbx
 original link: [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 34 - V8 Confusions, Smart Speaker Spying, Summer Camp Round-Up, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-34-v8-confusions-smart-speaker-spying-summer-camp-round-up-and-more-2/)
 

@@ -1,4 +1,4 @@
-tags:  [[chrome]], [[sbx]], [[lpe]], [[windows]], [[uaf]], [[alpc]]
+tags: #chrome #sbx #lpe #windows #uaf #alpc
 original link: [Chaining N-days to Compromise All: Part 2 — Windows Kernel LPE (a.k.a Chrome Sandbox Escape)](https://blog.theori.io/chaining-n-days-to-compromise-all-part-2-windows-kernel-lpe-a-k-a-chrome-sandbox-escape-44cb49d7a4f8?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 15](https://blog.exploits.club/exploits-club-weekly-newsletter-15/)
 

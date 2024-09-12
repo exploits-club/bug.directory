@@ -1,4 +1,4 @@
-tags: [[openSSH]], [[supply chain]]
+tags: #openSSH #supply_chain
 original link: [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metadata, Kernel Streaming, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-36-regex-fuzzing-c-metadata-kernel-streaming-and-more/)
 

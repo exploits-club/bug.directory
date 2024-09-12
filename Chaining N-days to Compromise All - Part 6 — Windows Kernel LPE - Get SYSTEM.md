@@ -1,4 +1,4 @@
-tags: [[windows]], [[lpe]], [[ITW]], [[uaf]]
+tags: #windows #lpe #ITW #uaf
 original link:  [Chaining N-days to Compromise All: Part 6 — Windows Kernel LPE: Get SYSTEM](https://medium.com/@vr-blog/chaining-n-days-to-compromise-all-part-6-windows-kernel-lpe-get-system-83cd756ce90a?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 22](https://blog.exploits.club/exploits-club-weekly-newsletter-22/)
 

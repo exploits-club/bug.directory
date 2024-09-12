@@ -1,4 +1,4 @@
-tags: [[type confusion]], [[wasm]], [[chrome]], [[sbx]]
+tags: #type_confusion #wasm #chrome #sbx
 original link: [SSD Advisory: Google Chrome RCE](https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 34 - V8 Confusions, Smart Speaker Spying, Summer Camp Round-Up, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-34-v8-confusions-smart-speaker-spying-summer-camp-round-up-and-more-2/)
 

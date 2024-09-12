@@ -1,4 +1,4 @@
-tags: [[secure boot]], [[UEFI]]
+tags: #secure_boot #UEFI
 original link:  [Exploring AMD Platform Secure Boot](https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html?ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 07](https://blog.exploits.club/exploits-club-weekly-newsletter-07/)
 

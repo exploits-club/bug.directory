@@ -1,4 +1,4 @@
-tags:  [[iOS]]
+tags: #iOS
 original link:  [iOS: A Journey In The USB Networking Stack](https://www.synacktiv.com/publications/ios-a-journey-in-the-usb-networking-stack?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 19](https://blog.exploits.club/exploits-club-weekly-newsletter-19/) 
 

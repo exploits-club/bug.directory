@@ -1,4 +1,4 @@
-tags: [[firmware]], [[android]], [[learning resource]], [[fuzzing]]
+tags: #firmware #android #learning_resource #fuzzing
 original link:  [Address Sanitizer for Bare-metal Firmware](https://security.googleblog.com/2024/03/address-sanitizer-for-bare-metal.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 14](https://blog.exploits.club/exploits-club-weekly-newsletter-14/) 
 

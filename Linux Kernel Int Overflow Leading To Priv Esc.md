@@ -1,4 +1,4 @@
-tags: [[linux]], [[lpe]], [[integer overflow]], [[kernel]]
+tags: #linux #lpe #integer_overflow #kernel
 original link:  [Linux Kernel Int Overflow Leading To Priv Esc](https://ssd-disclosure.com/ssd-advisory-linux-kernel-nft_validate_register_store-integer-overflow-privilege-escalation/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 24](https://blog.exploits.club/exploits-club-weekly-newsletter-24/)
 

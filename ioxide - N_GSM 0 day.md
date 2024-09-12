@@ -1,4 +1,4 @@
-tags:  [[linux]], [[kernel]], [[race condition]], [[uaf]], [[GSM]]
+tags: #linux #kernel #race_condition #uaf #GSM
 original link: [ioxide: N_GSM 0 day](https://github.com/roddux/ixode/blob/main/notes.md?ref=blog.exploits.club) 
 newsletter link: [exploits.club Weekly Newsletter 35 - NPU exploits, Phrack 71, 2014 Tablet Hacks, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-35-npu-exploits-phrack-71-2014-tablet-hacks-and-more/)
 

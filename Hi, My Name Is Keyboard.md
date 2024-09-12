@@ -1,4 +1,4 @@
-tags:  [[bluetooth]]
+tags: #bluetooth
 original link:  [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2024-0230?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 04](https://blog.exploits.club/exploits-club-weekly-newsletter-04/)
 

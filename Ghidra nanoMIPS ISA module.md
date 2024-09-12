@@ -1,4 +1,4 @@
-tags: [[decompilation]], [[ghidra]] 
+tags: #decompilation #ghidra
 original link:  [Ghidra nanoMIPS ISA module](https://research.nccgroup.com/2024/05/07/ghidra-nanomips-isa-module/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 21](https://blog.exploits.club/exploits-club-weekly-newsletter-21/)
 

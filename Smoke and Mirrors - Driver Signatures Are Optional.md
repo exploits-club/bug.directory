@@ -1,4 +1,4 @@
-tags: [[windows]], [[lpe]], [[kernel]]
+tags: #windows #lpe #kernel
 original link: [Smoke and Mirrors: Driver Signatures Are Optional](https://www.youtube.com/@microsoftrndIsrael?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 31](https://blog.exploits.club/exploits-club-weekly-newsletter-31/)
 

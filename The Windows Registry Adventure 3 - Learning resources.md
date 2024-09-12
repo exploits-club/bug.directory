@@ -1,4 +1,4 @@
-tags: [[windows]], [[learning resource]], [[methodology]]
+tags: #windows #learning_resource #methodology
 original link:  [The Windows Registry Adventure #3: Learning resources](https://googleprojectzero.blogspot.com/2024/06/the-windows-registry-adventure-3.html?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 28](https://blog.exploits.club/exploits-club-weekly-newsletter-28/) 
 

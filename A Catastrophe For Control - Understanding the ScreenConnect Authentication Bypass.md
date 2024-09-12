@@ -1,4 +1,4 @@
-tags: [[auth bypass]], [[path traversal]], [[enterprise app]]
+tags: #auth_bypass #path_traversal #enterprise_app
 original link:  [A Catastrophe For Control: Understanding the ScreenConnect Authentication Bypass](https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screenconnect-authentication-bypass?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 09](https://blog.exploits.club/exploits-club-weekly-newsletter-09/)  
 

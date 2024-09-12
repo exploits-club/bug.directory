@@ -1,4 +1,4 @@
-tags: [[mitigation]], [[chrome]]
+tags: #mitigation #chrome
 original link: [Surviving MiraclePtr Navigating of Webp and Beyond by Kira](https://www.youtube.com/watch?v=T9Ek_TdVZ5c&t=1s&ab_channel=GEEKCON&ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 30](https://blog.exploits.club/exploits-club-weekly-newsletter-30/)
 

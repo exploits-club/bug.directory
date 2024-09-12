@@ -1,4 +1,4 @@
-tags: [[iot]], [[bluetooth]], [[auth bypass]]
+tags: #iot #bluetooth #auth_bypass
 original link:  [Do a firmware update for your AirPods...now](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 28](https://blog.exploits.club/exploits-club-weekly-newsletter-28/) 
 

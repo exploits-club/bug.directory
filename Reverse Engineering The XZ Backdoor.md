@@ -1,4 +1,4 @@
-tags:  [[ITW]], [[supply chain]]
+tags: #ITW #supply_chain
 original link:  [Reverse Engineering The XZ Backdoor](https://x.com/amlweems/status/1774819428208689241?s=20&ref=blog.exploits.club)
 newsletter link:  [exploits.club Weekly Newsletter 15](https://blog.exploits.club/exploits-club-weekly-newsletter-15/)
 

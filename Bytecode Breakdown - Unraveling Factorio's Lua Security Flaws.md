@@ -1,4 +1,4 @@
-tags: [[game hacking]], [[lua]], [[bytecode]], [[type confusion]]
+tags: #game_hacking #lua #bytecode #type_confusion
 original link:  [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 29](https://blog.exploits.club/exploits-club-weekly-newsletter-29/) 
 

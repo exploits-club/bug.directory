@@ -1,4 +1,4 @@
-tags: [[mitigation]]
+tags: #mitigation
 original link: [Secure by Design: Google’s Perspective on Memory Safety](https://research.google/pubs/secure-by-design-googles-perspective-on-memory-safety/?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 11](https://blog.exploits.club/exploits-club-weekly-newsletter-10-2/)
 

@@ -1,4 +1,4 @@
-tags: [[sbx]], [[v8]], [[learning resource]], [[chrome]]
+tags: #sbx #v8 #learning_resource #chrome
 original link:  [The V8 Heap Sandbox](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 22](https://blog.exploits.club/exploits-club-weekly-newsletter-22/)
 
