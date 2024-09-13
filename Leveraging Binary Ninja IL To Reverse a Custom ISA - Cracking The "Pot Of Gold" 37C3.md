@@ -1,4 +1,4 @@
-tags: #CTF #binary_ninja #decompilation #stack_overflow]]_[[rop
+tags: #CTF #binary_ninja #decompilation #stack_overflow #rop
 original link:  [LEVERAGING BINARY NINJA IL TO REVERSE A CUSTOM ISA: CRACKING THE “POT OF GOLD” 37C3](https://www.synacktiv.com/publications/leveraging-binary-ninja-il-to-reverse-a-custom-isa-cracking-the-pot-of-gold-37c3?ref=blog.exploits.club)
 newsletter link: [exploits.club Weekly Newsletter 03](https://blog.exploits.club/exploits-club-weekly-newsletter-03/) 
 
