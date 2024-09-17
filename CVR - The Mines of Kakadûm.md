@@ -1,0 +1,7 @@
+tags:  #heap_overflow #info_leak #conditional_corruption
+original link:  [CVR: The Mines of Kakadûm](https://bughunters.google.com/blog/6220757425586176/cvr-the-mines-of-kakad-m?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 38 - Linux Races, Blind Memory Corruption, LLM Java Fuzzing, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-38-linux-races-blind-memory-corruption-llm-java-fuzzing-and-more/)
+
+---
+## Exploits Club Summary:
+> Google's Cloud Vulnerability Research team took to the BugHunter blog to discuss their r**esearch on exploiting memory corruption bugs in server-side libraries under unknown execution environments.** Specifically, the post focuses on [Kakadu](https://en.wikipedia.org/wiki/Kakadu_(software)?ref=blog.exploits.club), a JPEG 2000 library. The post goes over the **technical details of the software before walking through the team's vulnerability research methodology.** The team discovered two vulnerabilities - **an OOB write and an arbitrary file read.** They leveraged the file read to obtain information about the execution environment and trigger "Conditional Corruption." After that, they used the OOB write to modify global variables and hijack control flow. **The post is super in-depth, discussing a handful of roadblocks the team encountered** - certainly worth a full read-through. 
