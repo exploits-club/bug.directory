@@ -1,0 +1,7 @@
+tags: #mitigation #methodology #rust 
+original link:  [Eliminating Memory Safety Vulnerabilities at the Source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
+newsletter link: [exploits.club Weekly Newsletter 40 - iOS Kernel Exploitation, CET Bypasses, Elgato Hardware Repair, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-40-ios-kernel-exploitation-cet-bypasses-elgato-hardware-repair-and-more/)
+
+---
+## Exploits Club Summary:
+> This week, Google posted some analytics related their continued journey towards eradicating memory corruption vulnerabilities. The piece opens with some numbers intended to support the overall central thesis: vulnerabilities in a codebase decay exponentially with time.  While the lines of unsafe code have gone up slightly in AOSP over the last 5 years, the majority of new features have been written in Rust, and as such a 52% decrease in memory safety bugs has been observed As the software industry has matured, it's approach to memory safety has gone through a number of stages. Google doesn't necessarily think you should just "re-write it in Rust" ... but maybe focusing on the Rust adoption in your newer features could be worthwhile.

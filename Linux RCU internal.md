@@ -1,0 +1,7 @@
+tags: #linux #rcu #learning_resource 
+original link: [Linux RCU internal](https://u1f383.github.io/linux/2024/09/20/linux-rcu-internal.html)  
+newsletter link: [exploits.club Weekly Newsletter 40 - iOS Kernel Exploitation, CET Bypasses, Elgato Hardware Repair, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-40-ios-kernel-exploitation-cet-bypasses-elgato-hardware-repair-and-more/)
+
+---
+## Exploits Club Summary:
+> A few newsletters ago, [we included a race condition related to improper usage of the RCU API](https://bug.directory/Deep-Dive-into-RCU-Race-Condition---Analysis-of-TCP-AO-UAF-(CVE-2024%E2%80%9327394)). That post included a brief overview of RCU...just enough to get you to understand the bug. However, if it left you wondering about how the system works under the hood, then fear not because [@u1f383](https://u1f383.github.io/about/)was wondering the same thing and took more of an initiative than you did. In the blog post from this week, Pumpkin walks through the 5 components implemented in the Linux RCU mechanism, and talks at length about how each of them work. It comes complete with well explained kernel code snippets and pretty diagrams for those of us who are too dumb to read the code snippets. And now that you know more about the API itself, maybe you can find some interesting [bugs like Theori](https://blog.theori.io/deep-dive-into-rcu-race-condition-analysis-of-tcp-ao-uaf-cve-2024-27394-f40508b84c42). 

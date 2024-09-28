@@ -1,0 +1,7 @@
+tags: #llm #fuzzing #static_analysis #dynamic_analysis #ai 
+original link: [Winning the AIxCC Qualification Round](https://blog.theori.io/winning-the-aixcc-qualification-round-7263d1cde9c8) 
+newsletter link: [exploits.club Weekly Newsletter 40 - iOS Kernel Exploitation, CET Bypasses, Elgato Hardware Repair, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-40-ios-kernel-exploitation-cet-bypasses-elgato-hardware-repair-and-more/)
+
+---
+## Exploits Club Summary:
+>  Last month, Theori took first place at the AIxCC qualification round, securing their spot in the 2025 finals. The team put out a brief blog post documenting their experience thus far, and giving a small peek at how they approached the competition. The post starts with a background on AIxCC, discussing the purpose of the competition, types of challenges, and ways to earn points. It then takes a look at the teams technical approach, both for finding bugs and patching them. The team highlights their use of traditional static and dynamic analysis tools, and how they are paired with custom LLM agents. Naturally, there are a handful of challenges associated Theori discusses such as LLM hallucinations when writing a patch. Overall, while they clearly are keeping some cards close to the vest for the finals next year, it was nice to hear a bit more about their general approach to the problem space.
