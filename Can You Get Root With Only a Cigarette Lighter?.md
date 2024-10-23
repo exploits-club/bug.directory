@@ -1,0 +1,7 @@
+tags: #glitching #lpe #linux #kernel
+original link: [Can You Get Root With Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html?ref=blog.exploits.club#can-you-get-root-with-only-a-cigarette-lighter)
+newsletter link: [exploits.club Weekly Newsletter 42 - Glitching With A Lighter, Pixel 9 Baseband Security, Node.js Pipe Madness, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-42-glitching-with-a-lighter-pixel-9-baseband-security-node-js-pipe-madness-and-more/)
+
+---
+## Exploits Club Summary:
+> It doesn't seem too far fetched to say Hollywood would film a "hacking" scene where the rebellious, cig-smoking main character demonstrates his technical prowess with nothing more than his lighter, before saying "I have root access". And while we weren't in the room with [@David3141593](https://x.com/David3141593?ref=blog.exploits.club) when he pulled this off, we certainly hope thats how it went down. In this new post, **Dave walks through his recent research into EMFI fault injection with a cigarette lighter coupled to an inductor.** The post starts with showing how this tool can be **used to flip bits and cause corruptions during read/write operations** with a demonstrative CPython program. After that, Dave takes to an old Linux laptop and is **able to achieve LPE by using a Rowhammer-esc exploit strategy.** By flipping during a level 0-PTE read, he finds a way to **effectively give himself physical arbitrary read/write.** 

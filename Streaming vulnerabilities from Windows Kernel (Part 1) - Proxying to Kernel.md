@@ -5,3 +5,7 @@ newsletter link:  [exploits.club Weekly Newsletter 36 - Regex Fuzzing, C++ Metad
 ---
 ## Exploits Club Summary:
 > [DEVCORE](https://devco.re/en/?ref=blog.exploits.club) took to the internet this week to give you one of the **best Microsoft Kernel Streaming Service overviews that exist on the web at the moment.** The post looks at the **attack surface as a whole, including a brief review of two previous vulnerabilities.** It then does a deep dive into Kernel Streaming, looking at the core functionality, how we interact with the devices, and its architecture from an attacker's point of view. **Finally, the post reviews the vulnerability and exploit the team used in Pwn2Own 2024.** It's a banger of a post; we highly recommend checking it out. 
+
+
+---
+backlinks: [[Streaming vulnerabilities from Windows Kernel - Proxying to Kernel - Part II]]

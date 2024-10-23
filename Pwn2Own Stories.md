@@ -1,0 +1,7 @@
+tags: #pwn2own #methodology #learning_resource #NET #java #deserialization  
+original link:  [Pwn2Own Stories](https://www.youtube.com/watch?v=j6jhzFgz_Xo&ab_channel=SecurityBSidesAlbuquerque&ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 41 - Exploit Dev Lifecycle, Binder Internals, UEFI Deep-Dive, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-41-exploit-dev-lifecycle-binder-internals-uefi-deep-dive-and-more/)
+
+---
+## Exploits Club Summary:
+> A bit late to this one but [**@bdmcbri**](https://x.com/bdmcbri?ref=blog.exploits.club)**'s Pwn2Own stories talk hit YouTube a few weeks back.** The talk goes through some of the t**argets he has gone after, his success, failures, and overall learnings.** The talk shines for the way it **emphasizes the usefulness in taking a simple approach and not being overly concerned about the myriad of unknowns** associated when targeting something like a SCADA devices for the first time. Along the way, the talk goes over a handful of Ben's entries, **ranging from .NET and Java deserialization bugs to crypto weaknesses.** If you are interested in participating in Pwn2Own for the first time, **this talk is there to get you on your way and show you the barrier to entry maybe lower than you think** 

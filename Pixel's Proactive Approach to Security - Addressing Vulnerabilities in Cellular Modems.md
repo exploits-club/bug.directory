@@ -1,0 +1,7 @@
+tags: #baseband #mitigation #android
+original link: [Pixel's Proactive Approach to Security - Addressing Vulnerabilities in Cellular Modems](https://security.googleblog.com/2024/10/pixel-proactive-security-cellular-modems.html?m=1&ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 42 - Glitching With A Lighter, Pixel 9 Baseband Security, Node.js Pipe Madness, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-42-glitching-with-a-lighter-pixel-9-baseband-security-node-js-pipe-madness-and-more/)
+
+---
+## Exploits Club Summary:
+> **The Pixel 9 line-up is coming with some changes to baseband security** and Google wants you to know about it. In a post released last week, the team talks through **why baseband is such a popular attack surface - from the remote reachability to the lack of mitigations**. From there, the team talks through what they are doing about it, specifically on this most recent release of phones. **The Pixel 9 line-up ships with a handful of additional mitigations baked into the baseband firmware, such as stack canaries, CFI, and sanatizers.** The post also **points out the continued increase in monetary incentive for independent research to submit their bare-metal firmware bugs to the VRP program.** 

@@ -1,0 +1,7 @@
+tags: #binder #android #learning_resource  
+original link:  [Binder Internals](https://androidoffsec.withgoogle.com/posts/binder-internals/?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 41 - Exploit Dev Lifecycle, Binder Internals, UEFI Deep-Dive, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-41-exploit-dev-lifecycle-binder-internals-uefi-deep-dive-and-more/)
+
+---
+## Exploits Club Summary:
+> Have you ever sat down and thought "gosh, I wish someone would just document **how Binder works from front-to-back**"? Well, it appears thats what the Android Red Team had the same idea. Following their Binder research presented earlier this year at [OffensiveCON](https://www.offensivecon.org/speakers/2024/eugene-rodionov,-zi-fan-tan-and-gulshan-singh.html?ref=blog.exploits.club), the team has now released just under **9k words going through all things Binder internals.** The post is broken into 5 major sections: **Lifetimes of Objects, Concurrency Model, Workqueues and Work Items, Binder's Buffer Allocator, and the Transaction stack.** It comes complete with supporting **code snippets for each subsystem and diagrams to help visualize some of the more complex dataflows**. Overall, its a golden resource for anyone in the Android space who is interested in getting spun up on Binder quickly. 

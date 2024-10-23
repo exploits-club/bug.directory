@@ -1,0 +1,7 @@
+tags:  #linux #CUPS 
+original link:  [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/?ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 41 - Exploit Dev Lifecycle, Binder Internals, UEFI Deep-Dive, and More](https://blog.exploits.club/exploits-club-weekly-newsletter-41-exploit-dev-lifecycle-binder-internals-uefi-deep-dive-and-more/)
+
+---
+## Exploits Club Summary:
+> You're tired of hearing about it, we're tired of hearing about it. But it's our job to bring you the VR news and if we didn't include it...well that would just be silly. So, ignoring the surrounding drama, what's this CUPs stuff about? Well last week [**@evilsocket**](https://x.com/evilsocket?ref=blog.exploits.club) **released a blog post detailing vulnerabilities he found is cups-browsed, a subsystem within the CUPs**. After identifying an overflow that he decided not to further pursue for exploitation, he turned his attention to "lower hanging fruit". Essentially, he figured out a way to **get the target to connect back to him, allowing the injection of a controlled PPD directives to the default file.** This in turn would be exploited when a print job is sent to the fake printer.

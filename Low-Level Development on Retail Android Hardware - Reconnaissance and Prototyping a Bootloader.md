@@ -1,0 +1,7 @@
+tags: #bootloader #android #linux
+original link:  [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html?ref=blog.exploits.club)
+newsletter link: 
+
+---
+## Exploits Club Summary:
+> Have you ever thought "huh, I really want to write a bootloader for an off the shelf Android device to try and boot mainline Linux?" No? Well step aside, because that's exactly what [@t1mschumi](https://x.com/t1mschumi?ref=blog.exploits.club) set out to do. In his first blog post, **he takes us behind the scenes of the project, explaining the initial progress made on his Samsung Galaxy Core Plus.** The post recaps the initial **reverse engineering conducted on S-BOOT,** talking through how he was able to enable verbose logging and **review the overall boot flow.** Equipped with a better understanding of how S-BOOT works under the hood, he was **able to craft a simple executable and get it executed as expected**. Afterwards, he **troubleshoots some issues associated with loading and booting a kernel due to some finicky size constraints**. It wraps up with some thoughts on next steps and where the project can go from here.

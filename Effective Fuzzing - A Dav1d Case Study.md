@@ -1,0 +1,7 @@
+tags: #fuzzing #methodology #media_decoder #integer_overflow  
+original link:  [Effective Fuzzing - A Dav1d Case Study](https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html?m=1&ref=blog.exploits.club)
+newsletter link: [exploits.club Weekly Newsletter 42 - Glitching With A Lighter, Pixel 9 Baseband Security, Node.js Pipe Madness, And More](https://blog.exploits.club/exploits-club-weekly-newsletter-42-glitching-with-a-lighter-pixel-9-baseband-security-node-js-pipe-madness-and-more/)
+
+---
+## Exploits Club Summary:
+> If you've been paying attention to the VR landscape over the last year or so, then you know **"Oh its fuzzed by oss-fuzz" is rarely the end-of-story for finding bugs in open source projects.** P0 returns this week to further that point. In this post, guest blogger Nick Galloway explains how he was able to **find two integer overflows in Dav1d, an AV1 video decoder**. After reviewing the oss-fuzz harnesses, he realized **constraints had manually been put in place for memory purposes,** effectively reducing the total coverage. By removing these, his **fuzzer was able to find new codepaths and in turn, new bugs.** He also discusses a handful of other ways he improved coverage, such as fuzzing on a different architecture or changing the amount of threads the fuzzer can create.
